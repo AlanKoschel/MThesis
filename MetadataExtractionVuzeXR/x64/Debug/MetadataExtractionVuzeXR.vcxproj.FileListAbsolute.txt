@@ -1,0 +1,2 @@
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\x64\Debug\MetadataExtractionVuzeXR.exe
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\x64\Debug\MetadataExtractionVuzeXR.pdb

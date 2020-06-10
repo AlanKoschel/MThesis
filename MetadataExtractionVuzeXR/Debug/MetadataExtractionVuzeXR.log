@@ -1,0 +1,7 @@
+﻿  extract-metadata.c
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(21,22): error C2143: syntax error: missing ')' before 'sizeof'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(21,22): error C2143: syntax error: missing '{' before 'sizeof'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(21,22): error C2059: syntax error: 'sizeof'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(113,35): warning C4013: 'fseeko' undefined; assuming extern returning int
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(284,27): warning C4013: 'ftello' undefined; assuming extern returning int
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(337,17): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

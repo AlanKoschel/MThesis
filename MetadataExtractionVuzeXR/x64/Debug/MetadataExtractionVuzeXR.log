@@ -1,0 +1,20 @@
+﻿  extract-metadata.c
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(20,22): error C2143: syntax error: missing ')' before 'sizeof'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(20,22): error C2143: syntax error: missing '{' before 'sizeof'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(20,22): error C2059: syntax error: 'sizeof'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(84,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(99,67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(112,31): warning C4013: 'fseeko' undefined; assuming extern returning int
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(121,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(159,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(192,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(231,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(283,11): error C2065: 'off_t': undeclared identifier
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(283,11): error C2146: syntax error: missing ';' before identifier 'moovEnd'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(283,19): error C2065: 'moovEnd': undeclared identifier
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(283,27): warning C4013: 'ftello' undefined; assuming extern returning int
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(287,61): error C2065: 'moovEnd': undeclared identifier
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(302,11): error C2065: 'off_t': undeclared identifier
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(302,11): error C2146: syntax error: missing ';' before identifier 'udtaEnd'
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(302,19): error C2065: 'udtaEnd': undeclared identifier
+C:\1_GitAlan\MThesis\MetadataExtractionVuzeXR\extract-metadata.c(306,61): error C2065: 'udtaEnd': undeclared identifier
