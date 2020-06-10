@@ -1,0 +1,1864 @@
+[Main]          ExifTool Version Number         : 11.99
+[Main]          File Name                       : vuze_180_2.MP4
+[Main]          Directory                       : C:/1_GitAlan/Testdaten
+[Main]          File Size                       : 186 MB
+[Main]          File Modification Date/Time     : 2020:06:09 09:10:01+02:00
+[Main]          File Access Date/Time           : 2020:06:10 08:58:34+02:00
+[Main]          File Creation Date/Time         : 2020:06:09 09:17:46+02:00
+[Main]          File Permissions                : rw-rw-rw-
+[Main]          File Type                       : MP4
+[Main]          File Type Extension             : mp4
+[Main]          MIME Type                       : video/mp4
+[Main]          Major Brand                     : MP4  Base Media v1 [IS0 14496-12:2003]
+[Main]          Minor Version                   : 0.2.0
+[Main]          Compatible Brands               : isom, mp41
+[Main]          Media Data Size                 : 194139126
+[Main]          Media Data Offset               : 32
+[Main]          Movie Header Version            : 0
+[Main]          Create Date                     : 2020:06:09 07:09:40
+[Main]          Modify Date                     : 2020:06:09 07:10:01
+[Main]          Time Scale                      : 90000
+[Main]          Duration                        : 19.16 s
+[Main]          Preferred Rate                  : 1
+[Main]          Preferred Volume                : 100.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Preview Time                    : 0 s
+[Main]          Preview Duration                : 0 s
+[Main]          Poster Time                     : 0 s
+[Main]          Selection Time                  : 0 s
+[Main]          Selection Duration              : 0 s
+[Main]          Current Time                    : 0 s
+[Main]          Next Track ID                   : 5
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2020:06:09 07:09:40
+[Main]          Track Modify Date               : 2020:06:09 07:10:01
+[Main]          Track ID                        : 1
+[Main]          Track Duration                  : 19.19 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 0.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Image Width                     : 3840
+[Main]          Image Height                    : 2160
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2020:06:09 07:09:40
+[Main]          Media Modify Date               : 2020:06:09 07:10:01
+[Main]          Media Time Scale                : 30000
+[Main]          Media Duration                  : 19.19 s
+[Main]          Handler Class                   : Media Handler
+[Main]          Handler Type                    : Video Track
+[Main]          Handler Description             : Rh.1.4.61381-release- MCTF:0 FIN:1 S0{ AE:r1m AWB:r17m image:0 aaa:0 scene:0 warp:30f cawarp:0 vig:0f awb:0f ae:0 sta:-1 bpc:-1 eis:-1 cc_video:0 blc:0f stitch_warp:0f warp_precalc:-1 } S1{ AE:r1m AWB:r17m image:0 aaa:0 scene:0 warp:30f&-1 cawarp:0 vig:0f
+[Main]          Graphics Mode                   : srcCopy
+[Main]          Op Color                        : 0 0 0
+[Main]          Compressor ID                   : avc1
+[Main]          Source Image Width              : 3840
+[Main]          Source Image Height             : 2160
+[Main]          X Resolution                    : 72
+[Main]          Y Resolution                    : 72
+[Main]          Compressor Name                 : Ambarella AVC encoder
+[Main]          Bit Depth                       : 24
+[Main]          Stereoscopic 3D                 : Stereoscopic Left-Right
+[Main]          Metadata Source                 : Rh.Metadata
+[Main]          Pose Yaw Degrees                : -1.57079
+[Main]          Pose Pitch Degrees              : 0
+[Main]          Pose Roll Degrees               : 0
+[Main]          Video Frame Rate                : 29.97
+[Main]          Spherical                       : true
+[Main]          Stitched                        : true
+[Main]          Stitching Software              : VuzeXR
+[Main]          Projection Type                 : half_equirectangular
+[Main]          Stereo Mode                     : left-right
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2020:06:09 07:09:40
+[Main]          Track Modify Date               : 2020:06:09 07:10:01
+[Main]          Track ID                        : 2
+[Main]          Track Duration                  : 19.16 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 100.00%
+[Main]          Matrix Structure                : 0 0 0 0 0 0 0 0 0
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2020:06:09 07:09:40
+[Main]          Media Modify Date               : 2020:06:09 07:10:01
+[Main]          Media Time Scale                : 48000
+[Main]          Media Duration                  : 19.16 s
+[Main]          Handler Class                   : Media Handler
+[Main]          Handler Type                    : Audio Track
+[Main]          Handler Description             : Rh.Audio
+[Main]          Balance                         : 0
+[Main]          Audio Format                    : mp4a
+[Main]          Audio Channels                  : 2
+[Main]          Audio Bits Per Sample           : 16
+[Main]          Audio Sample Rate               : 48000
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2020:06:09 07:09:40
+[Main]          Track Modify Date               : 2020:06:09 07:10:01
+[Main]          Track ID                        : 3
+[Main]          Track Duration                  : 19.16 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 100.00%
+[Main]          Matrix Structure                : 0 0 0 0 0 0 0 0 0
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2020:06:09 07:09:40
+[Main]          Media Modify Date               : 2020:06:09 07:10:01
+[Main]          Media Time Scale                : 48000
+[Main]          Media Duration                  : 19.16 s
+[Main]          Handler Class                   : Media Handler
+[Main]          Handler Type                    : Audio Track
+[Main]          Handler Description             : Rh.Audio
+[Main]          Balance                         : 0
+[Main]          Audio Format                    : mp4a
+[Main]          Audio Channels                  : 2
+[Main]          Audio Bits Per Sample           : 16
+[Main]          Audio Sample Rate               : 48000
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2020:06:09 07:09:40
+[Main]          Track Modify Date               : 2020:06:09 07:10:01
+[Main]          Track ID                        : 4
+[Main]          Track Duration                  : 19.19 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 0.00%
+[Main]          Matrix Structure                : 0 0 0 0 0 0 0 0 0
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2020:06:09 07:09:40
+[Main]          Media Modify Date               : 2020:06:09 07:10:01
+[Main]          Media Time Scale                : 30000
+[Main]          Media Duration                  : 19.19 s
+[Main]          Handler Class                   : Media Handler
+[Main]          Handler Type                    : NRT Metadata
+[Main]          Handler Description             : Rh.Meta
+[Main]          Gen Media Version               : 0
+[Main]          Gen Flags                       : 0 0 0
+[Main]          Gen Graphics Mode               : ditherCopy
+[Main]          Gen Op Color                    : 32768 32768 32768
+[Main]          Gen Balance                     : 0
+[Main]          Meta Format                     : camm
+[Main]          Camera Model Name               : VuzeXR
+[Main]          Serial Number                   : VXR1193200875
+[Main]          Image Size                      : 3840x2160
+[Main]          Megapixels                      : 8.3
+[Main]          Avg Bitrate                     : 81.1 Mbps
+[Main]          Rotation                        : 0
+[Doc1]          Sample Time                     : 0 s
+[Doc1]          Sample Duration                 : 0.03 s
+[Doc1]          Angle Axis                      : -0.463891506195068 1.23379623889923 0.318437308073044
+[Doc2]          Sample Time                     : 0.03 s
+[Doc2]          Sample Duration                 : 0.03 s
+[Doc2]          Angle Axis                      : -0.462830722332001 1.23359596729279 0.32036092877388
+[Doc3]          Sample Time                     : 0.07 s
+[Doc3]          Sample Duration                 : 0.03 s
+[Doc3]          Angle Axis                      : -0.462141782045364 1.23368692398071 0.320470362901688
+[Doc4]          Sample Time                     : 0.10 s
+[Doc4]          Sample Duration                 : 0.03 s
+[Doc4]          Angle Axis                      : -0.461023420095444 1.23442363739014 0.321457058191299
+[Doc5]          Sample Time                     : 0.13 s
+[Doc5]          Sample Duration                 : 0.03 s
+[Doc5]          Angle Axis                      : -0.461246818304062 1.23432922363281 0.322568535804749
+[Doc6]          Sample Time                     : 0.17 s
+[Doc6]          Sample Duration                 : 0.03 s
+[Doc6]          Angle Axis                      : -0.461029231548309 1.23426580429077 0.322649717330933
+[Doc7]          Sample Time                     : 0.20 s
+[Doc7]          Sample Duration                 : 0.03 s
+[Doc7]          Angle Axis                      : -0.460950583219528 1.23386764526367 0.323200285434723
+[Doc8]          Sample Time                     : 0.23 s
+[Doc8]          Sample Duration                 : 0.03 s
+[Doc8]          Angle Axis                      : -0.461199939250946 1.2334578037262 0.32334578037262
+[Doc9]          Sample Time                     : 0.27 s
+[Doc9]          Sample Duration                 : 0.03 s
+[Doc9]          Angle Axis                      : -0.461138010025024 1.23295557498932 0.323660850524902
+[Doc10]         Sample Time                     : 0.30 s
+[Doc10]         Sample Duration                 : 0.03 s
+[Doc10]         Angle Axis                      : -0.46102386713028 1.23228669166565 0.323930829763412
+[Doc11]         Sample Time                     : 0.33 s
+[Doc11]         Sample Duration                 : 0.03 s
+[Doc11]         Angle Axis                      : -0.460771381855011 1.23214733600616 0.32329535484314
+[Doc12]         Sample Time                     : 0.37 s
+[Doc12]         Sample Duration                 : 0.03 s
+[Doc12]         Angle Axis                      : -0.460362613201141 1.2321709394455 0.323605269193649
+[Doc13]         Sample Time                     : 0.40 s
+[Doc13]         Sample Duration                 : 0.03 s
+[Doc13]         Angle Axis                      : -0.459940791130066 1.23266327381134 0.324140250682831
+[Doc14]         Sample Time                     : 0.43 s
+[Doc14]         Sample Duration                 : 0.03 s
+[Doc14]         Angle Axis                      : -0.460094660520554 1.23263490200043 0.324109613895416
+[Doc15]         Sample Time                     : 0.47 s
+[Doc15]         Sample Duration                 : 0.03 s
+[Doc15]         Angle Axis                      : -0.459335744380951 1.23303484916687 0.324123322963715
+[Doc16]         Sample Time                     : 0.50 s
+[Doc16]         Sample Duration                 : 0.03 s
+[Doc16]         Angle Axis                      : -0.459219455718994 1.23327112197876 0.324244856834412
+[Doc17]         Sample Time                     : 0.53 s
+[Doc17]         Sample Duration                 : 0.03 s
+[Doc17]         Angle Axis                      : -0.458521723747253 1.2333847284317 0.324457764625549
+[Doc18]         Sample Time                     : 0.57 s
+[Doc18]         Sample Duration                 : 0.03 s
+[Doc18]         Angle Axis                      : -0.458279103040695 1.23317933082581 0.324768841266632
+[Doc19]         Sample Time                     : 0.60 s
+[Doc19]         Sample Duration                 : 0.03 s
+[Doc19]         Angle Axis                      : -0.458095520734787 1.2334531545639 0.325001001358032
+[Doc20]         Sample Time                     : 0.63 s
+[Doc20]         Sample Duration                 : 0.03 s
+[Doc20]         Angle Axis                      : -0.458371609449387 1.23320233821869 0.325319707393646
+[Doc21]         Sample Time                     : 0.67 s
+[Doc21]         Sample Duration                 : 0.03 s
+[Doc21]         Angle Axis                      : -0.458981364965439 1.23319673538208 0.325902134180069
+[Doc22]         Sample Time                     : 0.70 s
+[Doc22]         Sample Duration                 : 0.03 s
+[Doc22]         Angle Axis                      : -0.458839684724808 1.23299086093903 0.326792418956757
+[Doc23]         Sample Time                     : 0.73 s
+[Doc23]         Sample Duration                 : 0.03 s
+[Doc23]         Angle Axis                      : -0.458511084318161 1.23286378383636 0.326882153749466
+[Doc24]         Sample Time                     : 0.77 s
+[Doc24]         Sample Duration                 : 0.03 s
+[Doc24]         Angle Axis                      : -0.458349674940109 1.23251855373383 0.32756969332695
+[Doc25]         Sample Time                     : 0.80 s
+[Doc25]         Sample Duration                 : 0.03 s
+[Doc25]         Angle Axis                      : -0.45755922794342 1.23398315906525 0.327404201030731
+[Doc26]         Sample Time                     : 0.83 s
+[Doc26]         Sample Duration                 : 0.03 s
+[Doc26]         Angle Axis                      : -0.457383304834366 1.23340582847595 0.32893905043602
+[Doc27]         Sample Time                     : 0.87 s
+[Doc27]         Sample Duration                 : 0.03 s
+[Doc27]         Angle Axis                      : -0.457419663667679 1.23321461677551 0.329708874225616
+[Doc28]         Sample Time                     : 0.90 s
+[Doc28]         Sample Duration                 : 0.03 s
+[Doc28]         Angle Axis                      : -0.457420170307159 1.23353338241577 0.330532729625702
+[Doc29]         Sample Time                     : 0.93 s
+[Doc29]         Sample Duration                 : 0.03 s
+[Doc29]         Angle Axis                      : -0.457166641950607 1.23338162899017 0.331633716821671
+[Doc30]         Sample Time                     : 0.97 s
+[Doc30]         Sample Duration                 : 0.03 s
+[Doc30]         Angle Axis                      : -0.456957131624222 1.23278069496155 0.331651747226715
+[Doc31]         Sample Time                     : 1.00 s
+[Doc31]         Sample Duration                 : 0.03 s
+[Doc31]         Angle Axis                      : -0.456858724355698 1.23230874538422 0.331278920173645
+[Doc32]         Sample Time                     : 1.03 s
+[Doc32]         Sample Duration                 : 0.03 s
+[Doc32]         Angle Axis                      : -0.456779778003693 1.23218941688538 0.331583887338638
+[Doc33]         Sample Time                     : 1.07 s
+[Doc33]         Sample Duration                 : 0.03 s
+[Doc33]         Angle Axis                      : -0.456692159175873 1.23190271854401 0.33226290345192
+[Doc34]         Sample Time                     : 1.10 s
+[Doc34]         Sample Duration                 : 0.03 s
+[Doc34]         Angle Axis                      : -0.456615269184113 1.23168849945068 0.331999599933624
+[Doc35]         Sample Time                     : 1.13 s
+[Doc35]         Sample Duration                 : 0.03 s
+[Doc35]         Angle Axis                      : -0.45627549290657 1.2320214509964 0.332421183586121
+[Doc36]         Sample Time                     : 1.17 s
+[Doc36]         Sample Duration                 : 0.03 s
+[Doc36]         Angle Axis                      : -0.456423968076706 1.23151230812073 0.333567082881927
+[Doc37]         Sample Time                     : 1.20 s
+[Doc37]         Sample Duration                 : 0.03 s
+[Doc37]         Angle Axis                      : -0.45626112818718 1.23134291172028 0.333638399839401
+[Doc38]         Sample Time                     : 1.23 s
+[Doc38]         Sample Duration                 : 0.03 s
+[Doc38]         Angle Axis                      : -0.455971628427505 1.23119294643402 0.333482593297958
+[Doc39]         Sample Time                     : 1.27 s
+[Doc39]         Sample Duration                 : 0.03 s
+[Doc39]         Angle Axis                      : -0.455905705690384 1.23129725456238 0.333737432956696
+[Doc40]         Sample Time                     : 1.30 s
+[Doc40]         Sample Duration                 : 0.03 s
+[Doc40]         Angle Axis                      : -0.456126302480698 1.23140335083008 0.334220588207245
+[Doc41]         Sample Time                     : 1.33 s
+[Doc41]         Sample Duration                 : 0.03 s
+[Doc41]         Angle Axis                      : -0.456147015094757 1.23149001598358 0.335073947906494
+[Doc42]         Sample Time                     : 1.37 s
+[Doc42]         Sample Duration                 : 0.03 s
+[Doc42]         Angle Axis                      : -0.456125319004059 1.23134386539459 0.335309058427811
+[Doc43]         Sample Time                     : 1.40 s
+[Doc43]         Sample Duration                 : 0.03 s
+[Doc43]         Angle Axis                      : -0.456245273351669 1.23093116283417 0.33581617474556
+[Doc44]         Sample Time                     : 1.43 s
+[Doc44]         Sample Duration                 : 0.03 s
+[Doc44]         Angle Axis                      : -0.456559181213379 1.23023402690887 0.336081713438034
+[Doc45]         Sample Time                     : 1.47 s
+[Doc45]         Sample Duration                 : 0.03 s
+[Doc45]         Angle Axis                      : -0.456312000751495 1.22989332675934 0.336341738700867
+[Doc46]         Sample Time                     : 1.50 s
+[Doc46]         Sample Duration                 : 0.03 s
+[Doc46]         Angle Axis                      : -0.456000834703445 1.22970902919769 0.336679369211197
+[Doc47]         Sample Time                     : 1.53 s
+[Doc47]         Sample Duration                 : 0.03 s
+[Doc47]         Angle Axis                      : -0.456164598464966 1.22907197475433 0.337160497903824
+[Doc48]         Sample Time                     : 1.57 s
+[Doc48]         Sample Duration                 : 0.03 s
+[Doc48]         Angle Axis                      : -0.455927699804306 1.22877323627472 0.337537467479706
+[Doc49]         Sample Time                     : 1.60 s
+[Doc49]         Sample Duration                 : 0.03 s
+[Doc49]         Angle Axis                      : -0.455835044384003 1.22842597961426 0.337480783462524
+[Doc50]         Sample Time                     : 1.63 s
+[Doc50]         Sample Duration                 : 0.03 s
+[Doc50]         Angle Axis                      : -0.455395579338074 1.22801101207733 0.337797403335571
+[Doc51]         Sample Time                     : 1.67 s
+[Doc51]         Sample Duration                 : 0.03 s
+[Doc51]         Angle Axis                      : -0.455461233854294 1.22756707668304 0.337805867195129
+[Doc52]         Sample Time                     : 1.70 s
+[Doc52]         Sample Duration                 : 0.03 s
+[Doc52]         Angle Axis                      : -0.455874770879745 1.2263594865799 0.338314801454544
+[Doc53]         Sample Time                     : 1.74 s
+[Doc53]         Sample Duration                 : 0.03 s
+[Doc53]         Angle Axis                      : -0.456521153450012 1.22535669803619 0.33978995680809
+[Doc54]         Sample Time                     : 1.77 s
+[Doc54]         Sample Duration                 : 0.03 s
+[Doc54]         Angle Axis                      : -0.45750629901886 1.22462856769562 0.339819073677063
+[Doc55]         Sample Time                     : 1.80 s
+[Doc55]         Sample Duration                 : 0.03 s
+[Doc55]         Angle Axis                      : -0.45948925614357 1.22350931167603 0.340477168560028
+[Doc56]         Sample Time                     : 1.84 s
+[Doc56]         Sample Duration                 : 0.03 s
+[Doc56]         Angle Axis                      : -0.461915999650955 1.22151708602905 0.3428875207901
+[Doc57]         Sample Time                     : 1.87 s
+[Doc57]         Sample Duration                 : 0.03 s
+[Doc57]         Angle Axis                      : -0.463123798370361 1.2170774936676 0.344611287117004
+[Doc58]         Sample Time                     : 1.90 s
+[Doc58]         Sample Duration                 : 0.03 s
+[Doc58]         Angle Axis                      : -0.461400926113129 1.21475100517273 0.343123346567154
+[Doc59]         Sample Time                     : 1.94 s
+[Doc59]         Sample Duration                 : 0.03 s
+[Doc59]         Angle Axis                      : -0.461562722921371 1.2137086391449 0.343648105859756
+[Doc60]         Sample Time                     : 1.97 s
+[Doc60]         Sample Duration                 : 0.03 s
+[Doc60]         Angle Axis                      : -0.464321106672287 1.21067357063293 0.351009070873261
+[Doc61]         Sample Time                     : 2.00 s
+[Doc61]         Sample Duration                 : 0.03 s
+[Doc61]         Angle Axis                      : -0.465203315019608 1.20580983161926 0.358785837888718
+[Doc62]         Sample Time                     : 2.04 s
+[Doc62]         Sample Duration                 : 0.03 s
+[Doc62]         Angle Axis                      : -0.466896861791611 1.20084607601166 0.36003053188324
+[Doc63]         Sample Time                     : 2.07 s
+[Doc63]         Sample Duration                 : 0.03 s
+[Doc63]         Angle Axis                      : -0.466564506292343 1.19581663608551 0.360619187355042
+[Doc64]         Sample Time                     : 2.10 s
+[Doc64]         Sample Duration                 : 0.03 s
+[Doc64]         Angle Axis                      : -0.46569150686264 1.18959355354309 0.363109767436981
+[Doc65]         Sample Time                     : 2.14 s
+[Doc65]         Sample Duration                 : 0.03 s
+[Doc65]         Angle Axis                      : -0.463722914457321 1.18101680278778 0.367171496152878
+[Doc66]         Sample Time                     : 2.17 s
+[Doc66]         Sample Duration                 : 0.03 s
+[Doc66]         Angle Axis                      : -0.461452484130859 1.17176234722137 0.369401842355728
+[Doc67]         Sample Time                     : 2.20 s
+[Doc67]         Sample Duration                 : 0.03 s
+[Doc67]         Angle Axis                      : -0.460028201341629 1.16043305397034 0.36941209435463
+[Doc68]         Sample Time                     : 2.24 s
+[Doc68]         Sample Duration                 : 0.03 s
+[Doc68]         Angle Axis                      : -0.458847612142563 1.14832901954651 0.366613835096359
+[Doc69]         Sample Time                     : 2.27 s
+[Doc69]         Sample Duration                 : 0.03 s
+[Doc69]         Angle Axis                      : -0.45878654718399 1.13372719287872 0.363092839717865
+[Doc70]         Sample Time                     : 2.30 s
+[Doc70]         Sample Duration                 : 0.03 s
+[Doc70]         Angle Axis                      : -0.458115339279175 1.11925637722015 0.359447240829468
+[Doc71]         Sample Time                     : 2.34 s
+[Doc71]         Sample Duration                 : 0.03 s
+[Doc71]         Angle Axis                      : -0.457948565483093 1.10416293144226 0.354499638080597
+[Doc72]         Sample Time                     : 2.37 s
+[Doc72]         Sample Duration                 : 0.03 s
+[Doc72]         Angle Axis                      : -0.457652002573013 1.08816337585449 0.348289668560028
+[Doc73]         Sample Time                     : 2.40 s
+[Doc73]         Sample Duration                 : 0.03 s
+[Doc73]         Angle Axis                      : -0.454985648393631 1.07155275344849 0.34080171585083
+[Doc74]         Sample Time                     : 2.44 s
+[Doc74]         Sample Duration                 : 0.03 s
+[Doc74]         Angle Axis                      : -0.451768577098846 1.05689704418182 0.326653331518173
+[Doc75]         Sample Time                     : 2.47 s
+[Doc75]         Sample Duration                 : 0.03 s
+[Doc75]         Angle Axis                      : -0.449889123439789 1.0428546667099 0.316286891698837
+[Doc76]         Sample Time                     : 2.50 s
+[Doc76]         Sample Duration                 : 0.03 s
+[Doc76]         Angle Axis                      : -0.451976120471954 1.02603471279144 0.316472232341766
+[Doc77]         Sample Time                     : 2.54 s
+[Doc77]         Sample Duration                 : 0.03 s
+[Doc77]         Angle Axis                      : -0.454295009374619 1.01064014434814 0.314572781324387
+[Doc78]         Sample Time                     : 2.57 s
+[Doc78]         Sample Duration                 : 0.03 s
+[Doc78]         Angle Axis                      : -0.454179525375366 1.00302910804749 0.30350250005722
+[Doc79]         Sample Time                     : 2.60 s
+[Doc79]         Sample Duration                 : 0.03 s
+[Doc79]         Angle Axis                      : -0.45277988910675 0.996677815914154 0.29307433962822
+[Doc80]         Sample Time                     : 2.64 s
+[Doc80]         Sample Duration                 : 0.03 s
+[Doc80]         Angle Axis                      : -0.453118234872818 0.993957757949829 0.285960555076599
+[Doc81]         Sample Time                     : 2.67 s
+[Doc81]         Sample Duration                 : 0.03 s
+[Doc81]         Angle Axis                      : -0.45289334654808 0.99231094121933 0.285771906375885
+[Doc82]         Sample Time                     : 2.70 s
+[Doc82]         Sample Duration                 : 0.03 s
+[Doc82]         Angle Axis                      : -0.452818483114243 0.984882175922394 0.2901371717453
+[Doc83]         Sample Time                     : 2.74 s
+[Doc83]         Sample Duration                 : 0.03 s
+[Doc83]         Angle Axis                      : -0.453020244836807 0.979648053646088 0.293897449970245
+[Doc84]         Sample Time                     : 2.77 s
+[Doc84]         Sample Duration                 : 0.03 s
+[Doc84]         Angle Axis                      : -0.453744411468506 0.971616625785828 0.294348359107971
+[Doc85]         Sample Time                     : 2.80 s
+[Doc85]         Sample Duration                 : 0.03 s
+[Doc85]         Angle Axis                      : -0.454630643129349 0.964575231075287 0.293060004711151
+[Doc86]         Sample Time                     : 2.84 s
+[Doc86]         Sample Duration                 : 0.03 s
+[Doc86]         Angle Axis                      : -0.455436617136002 0.956687688827515 0.292339235544205
+[Doc87]         Sample Time                     : 2.87 s
+[Doc87]         Sample Duration                 : 0.03 s
+[Doc87]         Angle Axis                      : -0.456689834594727 0.948244035243988 0.295095533132553
+[Doc88]         Sample Time                     : 2.90 s
+[Doc88]         Sample Duration                 : 0.03 s
+[Doc88]         Angle Axis                      : -0.458567410707474 0.939236760139465 0.296950250864029
+[Doc89]         Sample Time                     : 2.94 s
+[Doc89]         Sample Duration                 : 0.03 s
+[Doc89]         Angle Axis                      : -0.458986133337021 0.9318767786026 0.29748323559761
+[Doc90]         Sample Time                     : 2.97 s
+[Doc90]         Sample Duration                 : 0.03 s
+[Doc90]         Angle Axis                      : -0.457261651754379 0.922852873802185 0.298180162906647
+[Doc91]         Sample Time                     : 3.00 s
+[Doc91]         Sample Duration                 : 0.03 s
+[Doc91]         Angle Axis                      : -0.457941800355911 0.91560035943985 0.295302838087082
+[Doc92]         Sample Time                     : 3.04 s
+[Doc92]         Sample Duration                 : 0.03 s
+[Doc92]         Angle Axis                      : -0.459304630756378 0.909422397613525 0.288901895284653
+[Doc93]         Sample Time                     : 3.07 s
+[Doc93]         Sample Duration                 : 0.03 s
+[Doc93]         Angle Axis                      : -0.46067225933075 0.903530597686768 0.279527932405472
+[Doc94]         Sample Time                     : 3.10 s
+[Doc94]         Sample Duration                 : 0.03 s
+[Doc94]         Angle Axis                      : -0.460574686527252 0.897947728633881 0.27090522646904
+[Doc95]         Sample Time                     : 3.14 s
+[Doc95]         Sample Duration                 : 0.03 s
+[Doc95]         Angle Axis                      : -0.461241692304611 0.892598986625671 0.265849262475967
+[Doc96]         Sample Time                     : 3.17 s
+[Doc96]         Sample Duration                 : 0.03 s
+[Doc96]         Angle Axis                      : -0.460718244314194 0.889603316783905 0.2649747133255
+[Doc97]         Sample Time                     : 3.20 s
+[Doc97]         Sample Duration                 : 0.03 s
+[Doc97]         Angle Axis                      : -0.467047721147537 0.885496556758881 0.26984491944313
+[Doc98]         Sample Time                     : 3.24 s
+[Doc98]         Sample Duration                 : 0.03 s
+[Doc98]         Angle Axis                      : -0.468996733427048 0.879139840602875 0.274465948343277
+[Doc99]         Sample Time                     : 3.27 s
+[Doc99]         Sample Duration                 : 0.03 s
+[Doc99]         Angle Axis                      : -0.465811997652054 0.876321792602539 0.267077475786209
+[Doc100]        Sample Time                     : 3.30 s
+[Doc100]        Sample Duration                 : 0.03 s
+[Doc100]        Angle Axis                      : -0.466793954372406 0.87493759393692 0.257583796977997
+[Doc101]        Sample Time                     : 3.34 s
+[Doc101]        Sample Duration                 : 0.03 s
+[Doc101]        Angle Axis                      : -0.469221591949463 0.871447682380676 0.254608929157257
+[Doc102]        Sample Time                     : 3.37 s
+[Doc102]        Sample Duration                 : 0.03 s
+[Doc102]        Angle Axis                      : -0.470562189817429 0.869017124176025 0.257881969213486
+[Doc103]        Sample Time                     : 3.40 s
+[Doc103]        Sample Duration                 : 0.03 s
+[Doc103]        Angle Axis                      : -0.473691523075104 0.865964472293854 0.259243756532669
+[Doc104]        Sample Time                     : 3.44 s
+[Doc104]        Sample Duration                 : 0.03 s
+[Doc104]        Angle Axis                      : -0.47534903883934 0.861431658267975 0.259081840515137
+[Doc105]        Sample Time                     : 3.47 s
+[Doc105]        Sample Duration                 : 0.03 s
+[Doc105]        Angle Axis                      : -0.477671444416046 0.854302704334259 0.259290218353271
+[Doc106]        Sample Time                     : 3.50 s
+[Doc106]        Sample Duration                 : 0.03 s
+[Doc106]        Angle Axis                      : -0.47732749581337 0.84650582075119 0.259376287460327
+[Doc107]        Sample Time                     : 3.54 s
+[Doc107]        Sample Duration                 : 0.03 s
+[Doc107]        Angle Axis                      : -0.477795451879501 0.836589395999908 0.256136119365692
+[Doc108]        Sample Time                     : 3.57 s
+[Doc108]        Sample Duration                 : 0.03 s
+[Doc108]        Angle Axis                      : -0.478372901678085 0.826150894165039 0.251999258995056
+[Doc109]        Sample Time                     : 3.60 s
+[Doc109]        Sample Duration                 : 0.03 s
+[Doc109]        Angle Axis                      : -0.478976517915726 0.813008308410645 0.24696359038353
+[Doc110]        Sample Time                     : 3.64 s
+[Doc110]        Sample Duration                 : 0.03 s
+[Doc110]        Angle Axis                      : -0.478379935026169 0.796371281147003 0.240217387676239
+[Doc111]        Sample Time                     : 3.67 s
+[Doc111]        Sample Duration                 : 0.03 s
+[Doc111]        Angle Axis                      : -0.478933453559875 0.777946054935455 0.232878282666206
+[Doc112]        Sample Time                     : 3.70 s
+[Doc112]        Sample Duration                 : 0.03 s
+[Doc112]        Angle Axis                      : -0.479061514139175 0.758227646350861 0.224041149020195
+[Doc113]        Sample Time                     : 3.74 s
+[Doc113]        Sample Duration                 : 0.03 s
+[Doc113]        Angle Axis                      : -0.478127300739288 0.734425246715546 0.216894403100014
+[Doc114]        Sample Time                     : 3.77 s
+[Doc114]        Sample Duration                 : 0.03 s
+[Doc114]        Angle Axis                      : -0.478584766387939 0.710007429122925 0.207202672958374
+[Doc115]        Sample Time                     : 3.80 s
+[Doc115]        Sample Duration                 : 0.03 s
+[Doc115]        Angle Axis                      : -0.480376094579697 0.684695303440094 0.196312814950943
+[Doc116]        Sample Time                     : 3.84 s
+[Doc116]        Sample Duration                 : 0.03 s
+[Doc116]        Angle Axis                      : -0.482283145189285 0.657431185245514 0.186375334858894
+[Doc117]        Sample Time                     : 3.87 s
+[Doc117]        Sample Duration                 : 0.03 s
+[Doc117]        Angle Axis                      : -0.484198272228241 0.628646075725555 0.175389915704727
+[Doc118]        Sample Time                     : 3.90 s
+[Doc118]        Sample Duration                 : 0.03 s
+[Doc118]        Angle Axis                      : -0.485799193382263 0.599266231060028 0.165164023637772
+[Doc119]        Sample Time                     : 3.94 s
+[Doc119]        Sample Duration                 : 0.03 s
+[Doc119]        Angle Axis                      : -0.488877773284912 0.572511494159698 0.155025660991669
+[Doc120]        Sample Time                     : 3.97 s
+[Doc120]        Sample Duration                 : 0.03 s
+[Doc120]        Angle Axis                      : -0.497771292924881 0.546194493770599 0.147352963685989
+[Doc121]        Sample Time                     : 4.00 s
+[Doc121]        Sample Duration                 : 0.03 s
+[Doc121]        Angle Axis                      : -0.499231398105621 0.522175967693329 0.143653854727745
+[Doc122]        Sample Time                     : 4.04 s
+[Doc122]        Sample Duration                 : 0.03 s
+[Doc122]        Angle Axis                      : -0.503556668758392 0.498881429433823 0.141748949885368
+[Doc123]        Sample Time                     : 4.07 s
+[Doc123]        Sample Duration                 : 0.03 s
+[Doc123]        Angle Axis                      : -0.505992650985718 0.475580781698227 0.140352204442024
+[Doc124]        Sample Time                     : 4.10 s
+[Doc124]        Sample Duration                 : 0.03 s
+[Doc124]        Angle Axis                      : -0.505015850067139 0.45546367764473 0.137240394949913
+[Doc125]        Sample Time                     : 4.14 s
+[Doc125]        Sample Duration                 : 0.03 s
+[Doc125]        Angle Axis                      : -0.505399584770203 0.437943994998932 0.133927941322327
+[Doc126]        Sample Time                     : 4.17 s
+[Doc126]        Sample Duration                 : 0.03 s
+[Doc126]        Angle Axis                      : -0.509357392787933 0.422466397285461 0.13096658885479
+[Doc127]        Sample Time                     : 4.20 s
+[Doc127]        Sample Duration                 : 0.03 s
+[Doc127]        Angle Axis                      : -0.51622200012207 0.407599359750748 0.131791651248932
+[Doc128]        Sample Time                     : 4.24 s
+[Doc128]        Sample Duration                 : 0.03 s
+[Doc128]        Angle Axis                      : -0.520525753498077 0.393263101577759 0.135123908519745
+[Doc129]        Sample Time                     : 4.27 s
+[Doc129]        Sample Duration                 : 0.03 s
+[Doc129]        Angle Axis                      : -0.520490705966949 0.379539608955383 0.13568489253521
+[Doc130]        Sample Time                     : 4.30 s
+[Doc130]        Sample Duration                 : 0.03 s
+[Doc130]        Angle Axis                      : -0.517823576927185 0.367820709943771 0.132944524288177
+[Doc131]        Sample Time                     : 4.34 s
+[Doc131]        Sample Duration                 : 0.03 s
+[Doc131]        Angle Axis                      : -0.516654789447784 0.358146339654922 0.131095811724663
+[Doc132]        Sample Time                     : 4.37 s
+[Doc132]        Sample Duration                 : 0.03 s
+[Doc132]        Angle Axis                      : -0.517244875431061 0.351233601570129 0.131935611367226
+[Doc133]        Sample Time                     : 4.40 s
+[Doc133]        Sample Duration                 : 0.03 s
+[Doc133]        Angle Axis                      : -0.521974265575409 0.342806607484818 0.134911984205246
+[Doc134]        Sample Time                     : 4.44 s
+[Doc134]        Sample Duration                 : 0.03 s
+[Doc134]        Angle Axis                      : -0.524869799613953 0.330158621072769 0.139104142785072
+[Doc135]        Sample Time                     : 4.47 s
+[Doc135]        Sample Duration                 : 0.03 s
+[Doc135]        Angle Axis                      : -0.520904421806335 0.317536175251007 0.138873904943466
+[Doc136]        Sample Time                     : 4.50 s
+[Doc136]        Sample Duration                 : 0.03 s
+[Doc136]        Angle Axis                      : -0.519868969917297 0.30361345410347 0.134377434849739
+[Doc137]        Sample Time                     : 4.54 s
+[Doc137]        Sample Duration                 : 0.03 s
+[Doc137]        Angle Axis                      : -0.525708198547363 0.284325987100601 0.132050856947899
+[Doc138]        Sample Time                     : 4.57 s
+[Doc138]        Sample Duration                 : 0.03 s
+[Doc138]        Angle Axis                      : -0.528429508209229 0.266982316970825 0.128185749053955
+[Doc139]        Sample Time                     : 4.60 s
+[Doc139]        Sample Duration                 : 0.03 s
+[Doc139]        Angle Axis                      : -0.528499960899353 0.24929703772068 0.119720228016377
+[Doc140]        Sample Time                     : 4.64 s
+[Doc140]        Sample Duration                 : 0.03 s
+[Doc140]        Angle Axis                      : -0.52264541387558 0.233113929629326 0.106951355934143
+[Doc141]        Sample Time                     : 4.67 s
+[Doc141]        Sample Duration                 : 0.03 s
+[Doc141]        Angle Axis                      : -0.516525328159332 0.219114497303963 0.0982937067747116
+[Doc142]        Sample Time                     : 4.70 s
+[Doc142]        Sample Duration                 : 0.03 s
+[Doc142]        Angle Axis                      : -0.512860000133514 0.203581213951111 0.0932019129395485
+[Doc143]        Sample Time                     : 4.74 s
+[Doc143]        Sample Duration                 : 0.03 s
+[Doc143]        Angle Axis                      : -0.510868608951569 0.187542960047722 0.0895484834909439
+[Doc144]        Sample Time                     : 4.77 s
+[Doc144]        Sample Duration                 : 0.03 s
+[Doc144]        Angle Axis                      : -0.509365081787109 0.169674664735794 0.0857468694448471
+[Doc145]        Sample Time                     : 4.80 s
+[Doc145]        Sample Duration                 : 0.03 s
+[Doc145]        Angle Axis                      : -0.508497178554535 0.149196326732636 0.079394742846489
+[Doc146]        Sample Time                     : 4.84 s
+[Doc146]        Sample Duration                 : 0.03 s
+[Doc146]        Angle Axis                      : -0.507407248020172 0.126152828335762 0.0719527453184128
+[Doc147]        Sample Time                     : 4.87 s
+[Doc147]        Sample Duration                 : 0.03 s
+[Doc147]        Angle Axis                      : -0.504387021064758 0.09974554926157 0.0626663342118263
+[Doc148]        Sample Time                     : 4.90 s
+[Doc148]        Sample Duration                 : 0.03 s
+[Doc148]        Angle Axis                      : -0.501447737216949 0.0727997645735741 0.0517054162919521
+[Doc149]        Sample Time                     : 4.94 s
+[Doc149]        Sample Duration                 : 0.03 s
+[Doc149]        Angle Axis                      : -0.503652215003967 0.0454566106200218 0.0403234213590622
+[Doc150]        Sample Time                     : 4.97 s
+[Doc150]        Sample Duration                 : 0.03 s
+[Doc150]        Angle Axis                      : -0.509017288684845 0.0183607060462236 0.0300827175378799
+[Doc151]        Sample Time                     : 5.00 s
+[Doc151]        Sample Duration                 : 0.03 s
+[Doc151]        Angle Axis                      : -0.51654726266861 -0.00544719584286213 0.0180606208741665
+[Doc152]        Sample Time                     : 5.04 s
+[Doc152]        Sample Duration                 : 0.03 s
+[Doc152]        Angle Axis                      : -0.525320827960968 -0.0222638007253408 0.00673310784623027
+[Doc153]        Sample Time                     : 5.07 s
+[Doc153]        Sample Duration                 : 0.03 s
+[Doc153]        Angle Axis                      : -0.53452855348587 -0.0367938168346882 -0.00232665822841227
+[Doc154]        Sample Time                     : 5.11 s
+[Doc154]        Sample Duration                 : 0.03 s
+[Doc154]        Angle Axis                      : -0.539681434631348 -0.0486682951450348 -0.0112441526725888
+[Doc155]        Sample Time                     : 5.14 s
+[Doc155]        Sample Duration                 : 0.03 s
+[Doc155]        Angle Axis                      : -0.541098594665527 -0.0532094314694405 -0.0177654959261417
+[Doc156]        Sample Time                     : 5.17 s
+[Doc156]        Sample Duration                 : 0.03 s
+[Doc156]        Angle Axis                      : -0.539841890335083 -0.0558353662490845 -0.0213711746037006
+[Doc157]        Sample Time                     : 5.21 s
+[Doc157]        Sample Duration                 : 0.03 s
+[Doc157]        Angle Axis                      : -0.541594386100769 -0.0583366677165031 -0.019443217664957
+[Doc158]        Sample Time                     : 5.24 s
+[Doc158]        Sample Duration                 : 0.03 s
+[Doc158]        Angle Axis                      : -0.543433547019959 -0.0612683966755867 -0.0142406756058335
+[Doc159]        Sample Time                     : 5.27 s
+[Doc159]        Sample Duration                 : 0.03 s
+[Doc159]        Angle Axis                      : -0.542057633399963 -0.0621454231441021 -0.0109199117869139
+[Doc160]        Sample Time                     : 5.31 s
+[Doc160]        Sample Duration                 : 0.03 s
+[Doc160]        Angle Axis                      : -0.537651658058167 -0.0648804381489754 -0.00688668992370367
+[Doc161]        Sample Time                     : 5.34 s
+[Doc161]        Sample Duration                 : 0.03 s
+[Doc161]        Angle Axis                      : -0.532270133495331 -0.0639884620904922 -0.00460935337468982
+[Doc162]        Sample Time                     : 5.37 s
+[Doc162]        Sample Duration                 : 0.03 s
+[Doc162]        Angle Axis                      : -0.530267179012299 -0.062386941164732 0.00065611902391538
+[Doc163]        Sample Time                     : 5.41 s
+[Doc163]        Sample Duration                 : 0.03 s
+[Doc163]        Angle Axis                      : -0.530567407608032 -0.0616293847560883 0.00767221162095666
+[Doc164]        Sample Time                     : 5.44 s
+[Doc164]        Sample Duration                 : 0.03 s
+[Doc164]        Angle Axis                      : -0.531914532184601 -0.062391135841608 0.0148520627990365
+[Doc165]        Sample Time                     : 5.47 s
+[Doc165]        Sample Duration                 : 0.03 s
+[Doc165]        Angle Axis                      : -0.532265186309814 -0.0635684728622437 0.0202468894422054
+[Doc166]        Sample Time                     : 5.51 s
+[Doc166]        Sample Duration                 : 0.03 s
+[Doc166]        Angle Axis                      : -0.533139884471893 -0.064609594643116 0.0241541974246502
+[Doc167]        Sample Time                     : 5.54 s
+[Doc167]        Sample Duration                 : 0.03 s
+[Doc167]        Angle Axis                      : -0.533178687095642 -0.0681119337677956 0.0250209197402
+[Doc168]        Sample Time                     : 5.57 s
+[Doc168]        Sample Duration                 : 0.03 s
+[Doc168]        Angle Axis                      : -0.530346393585205 -0.0717643946409225 0.0239075273275375
+[Doc169]        Sample Time                     : 5.61 s
+[Doc169]        Sample Duration                 : 0.03 s
+[Doc169]        Angle Axis                      : -0.527441680431366 -0.0738258361816406 0.023222278803587
+[Doc170]        Sample Time                     : 5.64 s
+[Doc170]        Sample Duration                 : 0.03 s
+[Doc170]        Angle Axis                      : -0.524834871292114 -0.0760866031050682 0.0222802385687828
+[Doc171]        Sample Time                     : 5.67 s
+[Doc171]        Sample Duration                 : 0.03 s
+[Doc171]        Angle Axis                      : -0.522547662258148 -0.0788925364613533 0.0221940446645021
+[Doc172]        Sample Time                     : 5.71 s
+[Doc172]        Sample Duration                 : 0.03 s
+[Doc172]        Angle Axis                      : -0.520811915397644 -0.0800649970769882 0.022798266261816
+[Doc173]        Sample Time                     : 5.74 s
+[Doc173]        Sample Duration                 : 0.03 s
+[Doc173]        Angle Axis                      : -0.519408762454987 -0.0832139551639557 0.0222006402909756
+[Doc174]        Sample Time                     : 5.77 s
+[Doc174]        Sample Duration                 : 0.03 s
+[Doc174]        Angle Axis                      : -0.51642382144928 -0.0868029221892357 0.0183482896536589
+[Doc175]        Sample Time                     : 5.81 s
+[Doc175]        Sample Duration                 : 0.03 s
+[Doc175]        Angle Axis                      : -0.51581883430481 -0.0912000685930252 0.0137541359290481
+[Doc176]        Sample Time                     : 5.84 s
+[Doc176]        Sample Duration                 : 0.03 s
+[Doc176]        Angle Axis                      : -0.516678333282471 -0.094630591571331 0.00961035490036011
+[Doc177]        Sample Time                     : 5.87 s
+[Doc177]        Sample Duration                 : 0.03 s
+[Doc177]        Angle Axis                      : -0.525794804096222 -0.0992079004645348 0.00532056437805295
+[Doc178]        Sample Time                     : 5.91 s
+[Doc178]        Sample Duration                 : 0.03 s
+[Doc178]        Angle Axis                      : -0.530417799949646 -0.109782725572586 0.00744363572448492
+[Doc179]        Sample Time                     : 5.94 s
+[Doc179]        Sample Duration                 : 0.03 s
+[Doc179]        Angle Axis                      : -0.524964272975922 -0.117873065173626 0.00288118841126561
+[Doc180]        Sample Time                     : 5.97 s
+[Doc180]        Sample Duration                 : 0.03 s
+[Doc180]        Angle Axis                      : -0.521041452884674 -0.128046274185181 -0.00277410564012825
+[Doc181]        Sample Time                     : 6.01 s
+[Doc181]        Sample Duration                 : 0.03 s
+[Doc181]        Angle Axis                      : -0.512208819389343 -0.139235243201256 -0.00757103646174073
+[Doc182]        Sample Time                     : 6.04 s
+[Doc182]        Sample Duration                 : 0.03 s
+[Doc182]        Angle Axis                      : -0.506623923778534 -0.145022362470627 -0.0113470405340195
+[Doc183]        Sample Time                     : 6.07 s
+[Doc183]        Sample Duration                 : 0.03 s
+[Doc183]        Angle Axis                      : -0.512332141399384 -0.152856409549713 -0.00973847601562738
+[Doc184]        Sample Time                     : 6.11 s
+[Doc184]        Sample Duration                 : 0.03 s
+[Doc184]        Angle Axis                      : -0.519209980964661 -0.167812630534172 -0.000982193043455482
+[Doc185]        Sample Time                     : 6.14 s
+[Doc185]        Sample Duration                 : 0.03 s
+[Doc185]        Angle Axis                      : -0.518260717391968 -0.180576160550117 0.00118413614109159
+[Doc186]        Sample Time                     : 6.17 s
+[Doc186]        Sample Duration                 : 0.03 s
+[Doc186]        Angle Axis                      : -0.510878026485443 -0.192150220274925 -0.00387181667611003
+[Doc187]        Sample Time                     : 6.21 s
+[Doc187]        Sample Duration                 : 0.03 s
+[Doc187]        Angle Axis                      : -0.504179298877716 -0.203209415078163 -0.00837437901645899
+[Doc188]        Sample Time                     : 6.24 s
+[Doc188]        Sample Duration                 : 0.03 s
+[Doc188]        Angle Axis                      : -0.500636518001556 -0.210820123553276 -0.00839874055236578
+[Doc189]        Sample Time                     : 6.27 s
+[Doc189]        Sample Duration                 : 0.03 s
+[Doc189]        Angle Axis                      : -0.501385450363159 -0.221598461270332 -0.00627702660858631
+[Doc190]        Sample Time                     : 6.31 s
+[Doc190]        Sample Duration                 : 0.03 s
+[Doc190]        Angle Axis                      : -0.497616559267044 -0.234715849161148 -0.006586660631001
+[Doc191]        Sample Time                     : 6.34 s
+[Doc191]        Sample Duration                 : 0.03 s
+[Doc191]        Angle Axis                      : -0.490641325712204 -0.247545823454857 -0.0114941140636802
+[Doc192]        Sample Time                     : 6.37 s
+[Doc192]        Sample Duration                 : 0.03 s
+[Doc192]        Angle Axis                      : -0.483682215213776 -0.262048959732056 -0.0187399853020906
+[Doc193]        Sample Time                     : 6.41 s
+[Doc193]        Sample Duration                 : 0.03 s
+[Doc193]        Angle Axis                      : -0.477085322141647 -0.27654767036438 -0.0265665892511606
+[Doc194]        Sample Time                     : 6.44 s
+[Doc194]        Sample Duration                 : 0.03 s
+[Doc194]        Angle Axis                      : -0.473500519990921 -0.292411834001541 -0.0337341949343681
+[Doc195]        Sample Time                     : 6.47 s
+[Doc195]        Sample Duration                 : 0.03 s
+[Doc195]        Angle Axis                      : -0.470366895198822 -0.304882228374481 -0.0416394881904125
+[Doc196]        Sample Time                     : 6.51 s
+[Doc196]        Sample Duration                 : 0.03 s
+[Doc196]        Angle Axis                      : -0.47169092297554 -0.319326430559158 -0.0461145527660847
+[Doc197]        Sample Time                     : 6.54 s
+[Doc197]        Sample Duration                 : 0.03 s
+[Doc197]        Angle Axis                      : -0.477028489112854 -0.328512579202652 -0.0522760562598705
+[Doc198]        Sample Time                     : 6.57 s
+[Doc198]        Sample Duration                 : 0.03 s
+[Doc198]        Angle Axis                      : -0.492668956518173 -0.343277156352997 -0.0532763227820396
+[Doc199]        Sample Time                     : 6.61 s
+[Doc199]        Sample Duration                 : 0.03 s
+[Doc199]        Angle Axis                      : -0.507216334342957 -0.364481776952744 -0.0486231334507465
+[Doc200]        Sample Time                     : 6.64 s
+[Doc200]        Sample Duration                 : 0.03 s
+[Doc200]        Angle Axis                      : -0.5106480717659 -0.381066918373108 -0.053746085613966
+[Doc201]        Sample Time                     : 6.67 s
+[Doc201]        Sample Duration                 : 0.03 s
+[Doc201]        Angle Axis                      : -0.509514272212982 -0.39845997095108 -0.0592702813446522
+[Doc202]        Sample Time                     : 6.71 s
+[Doc202]        Sample Duration                 : 0.03 s
+[Doc202]        Angle Axis                      : -0.50798362493515 -0.412421643733978 -0.0700768977403641
+[Doc203]        Sample Time                     : 6.74 s
+[Doc203]        Sample Duration                 : 0.03 s
+[Doc203]        Angle Axis                      : -0.511285424232483 -0.426419019699097 -0.0792305395007133
+[Doc204]        Sample Time                     : 6.77 s
+[Doc204]        Sample Duration                 : 0.03 s
+[Doc204]        Angle Axis                      : -0.518878757953644 -0.441623628139496 -0.0810566842556
+[Doc205]        Sample Time                     : 6.81 s
+[Doc205]        Sample Duration                 : 0.03 s
+[Doc205]        Angle Axis                      : -0.519585430622101 -0.455862164497375 -0.0812498778104782
+[Doc206]        Sample Time                     : 6.84 s
+[Doc206]        Sample Duration                 : 0.03 s
+[Doc206]        Angle Axis                      : -0.518034756183624 -0.472977995872498 -0.0804367139935493
+[Doc207]        Sample Time                     : 6.87 s
+[Doc207]        Sample Duration                 : 0.03 s
+[Doc207]        Angle Axis                      : -0.513777375221252 -0.487309098243713 -0.0821337997913361
+[Doc208]        Sample Time                     : 6.91 s
+[Doc208]        Sample Duration                 : 0.03 s
+[Doc208]        Angle Axis                      : -0.509298861026764 -0.502725064754486 -0.0855405107140541
+[Doc209]        Sample Time                     : 6.94 s
+[Doc209]        Sample Duration                 : 0.03 s
+[Doc209]        Angle Axis                      : -0.508632361888886 -0.516189873218536 -0.0887090936303139
+[Doc210]        Sample Time                     : 6.97 s
+[Doc210]        Sample Duration                 : 0.03 s
+[Doc210]        Angle Axis                      : -0.510487675666809 -0.530391573905945 -0.0920528471469879
+[Doc211]        Sample Time                     : 7.01 s
+[Doc211]        Sample Duration                 : 0.03 s
+[Doc211]        Angle Axis                      : -0.512234449386597 -0.543488025665283 -0.0965819135308266
+[Doc212]        Sample Time                     : 7.04 s
+[Doc212]        Sample Duration                 : 0.03 s
+[Doc212]        Angle Axis                      : -0.514553546905518 -0.556816220283508 -0.102489948272705
+[Doc213]        Sample Time                     : 7.07 s
+[Doc213]        Sample Duration                 : 0.03 s
+[Doc213]        Angle Axis                      : -0.514733195304871 -0.571496188640594 -0.109446428716183
+[Doc214]        Sample Time                     : 7.11 s
+[Doc214]        Sample Duration                 : 0.03 s
+[Doc214]        Angle Axis                      : -0.508553266525269 -0.585467636585236 -0.120725825428963
+[Doc215]        Sample Time                     : 7.14 s
+[Doc215]        Sample Duration                 : 0.03 s
+[Doc215]        Angle Axis                      : -0.500390648841858 -0.595304250717163 -0.127036318182945
+[Doc216]        Sample Time                     : 7.17 s
+[Doc216]        Sample Duration                 : 0.03 s
+[Doc216]        Angle Axis                      : -0.496028929948807 -0.60772031545639 -0.129799246788025
+[Doc217]        Sample Time                     : 7.21 s
+[Doc217]        Sample Duration                 : 0.03 s
+[Doc217]        Angle Axis                      : -0.49368754029274 -0.620028376579285 -0.1360764503479
+[Doc218]        Sample Time                     : 7.24 s
+[Doc218]        Sample Duration                 : 0.03 s
+[Doc218]        Angle Axis                      : -0.496235519647598 -0.633488774299622 -0.140376627445221
+[Doc219]        Sample Time                     : 7.27 s
+[Doc219]        Sample Duration                 : 0.03 s
+[Doc219]        Angle Axis                      : -0.499245852231979 -0.650225281715393 -0.143219575285912
+[Doc220]        Sample Time                     : 7.31 s
+[Doc220]        Sample Duration                 : 0.03 s
+[Doc220]        Angle Axis                      : -0.499447107315063 -0.667641758918762 -0.148737415671349
+[Doc221]        Sample Time                     : 7.34 s
+[Doc221]        Sample Duration                 : 0.03 s
+[Doc221]        Angle Axis                      : -0.507368564605713 -0.682134866714478 -0.157197624444962
+[Doc222]        Sample Time                     : 7.37 s
+[Doc222]        Sample Duration                 : 0.03 s
+[Doc222]        Angle Axis                      : -0.513540327548981 -0.696453928947449 -0.164212569594383
+[Doc223]        Sample Time                     : 7.41 s
+[Doc223]        Sample Duration                 : 0.03 s
+[Doc223]        Angle Axis                      : -0.507034659385681 -0.710056602954865 -0.172436028718948
+[Doc224]        Sample Time                     : 7.44 s
+[Doc224]        Sample Duration                 : 0.03 s
+[Doc224]        Angle Axis                      : -0.497959554195404 -0.721306145191193 -0.181453168392181
+[Doc225]        Sample Time                     : 7.47 s
+[Doc225]        Sample Duration                 : 0.03 s
+[Doc225]        Angle Axis                      : -0.495684683322906 -0.729823589324951 -0.185280859470367
+[Doc226]        Sample Time                     : 7.51 s
+[Doc226]        Sample Duration                 : 0.03 s
+[Doc226]        Angle Axis                      : -0.504172682762146 -0.737888634204865 -0.184963494539261
+[Doc227]        Sample Time                     : 7.54 s
+[Doc227]        Sample Duration                 : 0.03 s
+[Doc227]        Angle Axis                      : -0.515229821205139 -0.746009469032288 -0.182860836386681
+[Doc228]        Sample Time                     : 7.57 s
+[Doc228]        Sample Duration                 : 0.03 s
+[Doc228]        Angle Axis                      : -0.519645988941193 -0.759626686573029 -0.184070929884911
+[Doc229]        Sample Time                     : 7.61 s
+[Doc229]        Sample Duration                 : 0.03 s
+[Doc229]        Angle Axis                      : -0.509379923343658 -0.770531952381134 -0.193033903837204
+[Doc230]        Sample Time                     : 7.64 s
+[Doc230]        Sample Duration                 : 0.03 s
+[Doc230]        Angle Axis                      : -0.4960857629776 -0.773442089557648 -0.204669579863548
+[Doc231]        Sample Time                     : 7.67 s
+[Doc231]        Sample Duration                 : 0.03 s
+[Doc231]        Angle Axis                      : -0.49582651257515 -0.782597124576569 -0.205285668373108
+[Doc232]        Sample Time                     : 7.71 s
+[Doc232]        Sample Duration                 : 0.03 s
+[Doc232]        Angle Axis                      : -0.496940970420837 -0.794112861156464 -0.20231431722641
+[Doc233]        Sample Time                     : 7.74 s
+[Doc233]        Sample Duration                 : 0.03 s
+[Doc233]        Angle Axis                      : -0.495932161808014 -0.80405330657959 -0.203068658709526
+[Doc234]        Sample Time                     : 7.77 s
+[Doc234]        Sample Duration                 : 0.03 s
+[Doc234]        Angle Axis                      : -0.496973007917404 -0.815458357334137 -0.208316132426262
+[Doc235]        Sample Time                     : 7.81 s
+[Doc235]        Sample Duration                 : 0.03 s
+[Doc235]        Angle Axis                      : -0.498670727014542 -0.825203239917755 -0.217277362942696
+[Doc236]        Sample Time                     : 7.84 s
+[Doc236]        Sample Duration                 : 0.03 s
+[Doc236]        Angle Axis                      : -0.499009698629379 -0.829786777496338 -0.22354730963707
+[Doc237]        Sample Time                     : 7.87 s
+[Doc237]        Sample Duration                 : 0.03 s
+[Doc237]        Angle Axis                      : -0.506203651428223 -0.847144961357117 -0.228637456893921
+[Doc238]        Sample Time                     : 7.91 s
+[Doc238]        Sample Duration                 : 0.03 s
+[Doc238]        Angle Axis                      : -0.504088342189789 -0.876641809940338 -0.234368503093719
+[Doc239]        Sample Time                     : 7.94 s
+[Doc239]        Sample Duration                 : 0.03 s
+[Doc239]        Angle Axis                      : -0.502115428447723 -0.91322934627533 -0.240263506770134
+[Doc240]        Sample Time                     : 7.97 s
+[Doc240]        Sample Duration                 : 0.03 s
+[Doc240]        Angle Axis                      : -0.493009984493256 -0.93407267332077 -0.240293443202972
+[Doc241]        Sample Time                     : 8.01 s
+[Doc241]        Sample Duration                 : 0.03 s
+[Doc241]        Angle Axis                      : -0.482380896806717 -0.941215336322784 -0.236552998423576
+[Doc242]        Sample Time                     : 8.04 s
+[Doc242]        Sample Duration                 : 0.03 s
+[Doc242]        Angle Axis                      : -0.480235666036606 -0.951545715332031 -0.235074877738953
+[Doc243]        Sample Time                     : 8.07 s
+[Doc243]        Sample Duration                 : 0.03 s
+[Doc243]        Angle Axis                      : -0.475335031747818 -0.958983719348907 -0.227775514125824
+[Doc244]        Sample Time                     : 8.11 s
+[Doc244]        Sample Duration                 : 0.03 s
+[Doc244]        Angle Axis                      : -0.45775231719017 -0.95764285326004 -0.231413215398788
+[Doc245]        Sample Time                     : 8.14 s
+[Doc245]        Sample Duration                 : 0.03 s
+[Doc245]        Angle Axis                      : -0.440583735704422 -0.959370672702789 -0.23994317650795
+[Doc246]        Sample Time                     : 8.17 s
+[Doc246]        Sample Duration                 : 0.03 s
+[Doc246]        Angle Axis                      : -0.42409735918045 -0.961988627910614 -0.243350341916084
+[Doc247]        Sample Time                     : 8.21 s
+[Doc247]        Sample Duration                 : 0.03 s
+[Doc247]        Angle Axis                      : -0.402289360761642 -0.964426755905151 -0.241127848625183
+[Doc248]        Sample Time                     : 8.24 s
+[Doc248]        Sample Duration                 : 0.03 s
+[Doc248]        Angle Axis                      : -0.376332104206085 -0.974323689937592 -0.247174650430679
+[Doc249]        Sample Time                     : 8.27 s
+[Doc249]        Sample Duration                 : 0.03 s
+[Doc249]        Angle Axis                      : -0.366591691970825 -0.986186861991882 -0.255756199359894
+[Doc250]        Sample Time                     : 8.31 s
+[Doc250]        Sample Duration                 : 0.03 s
+[Doc250]        Angle Axis                      : -0.366976141929626 -0.989194869995117 -0.257054030895233
+[Doc251]        Sample Time                     : 8.34 s
+[Doc251]        Sample Duration                 : 0.03 s
+[Doc251]        Angle Axis                      : -0.379265278577805 -0.99387788772583 -0.258579671382904
+[Doc252]        Sample Time                     : 8.38 s
+[Doc252]        Sample Duration                 : 0.03 s
+[Doc252]        Angle Axis                      : -0.391527265310287 -1.00126206874847 -0.269475817680359
+[Doc253]        Sample Time                     : 8.41 s
+[Doc253]        Sample Duration                 : 0.03 s
+[Doc253]        Angle Axis                      : -0.40361213684082 -1.01020860671997 -0.289248943328857
+[Doc254]        Sample Time                     : 8.44 s
+[Doc254]        Sample Duration                 : 0.03 s
+[Doc254]        Angle Axis                      : -0.415737241506577 -1.0248658657074 -0.294907569885254
+[Doc255]        Sample Time                     : 8.48 s
+[Doc255]        Sample Duration                 : 0.03 s
+[Doc255]        Angle Axis                      : -0.424313634634018 -1.03802180290222 -0.297525674104691
+[Doc256]        Sample Time                     : 8.51 s
+[Doc256]        Sample Duration                 : 0.03 s
+[Doc256]        Angle Axis                      : -0.431992739439011 -1.04825377464294 -0.300389736890793
+[Doc257]        Sample Time                     : 8.54 s
+[Doc257]        Sample Duration                 : 0.03 s
+[Doc257]        Angle Axis                      : -0.424927264451981 -1.06836426258087 -0.300708562135696
+[Doc258]        Sample Time                     : 8.58 s
+[Doc258]        Sample Duration                 : 0.03 s
+[Doc258]        Angle Axis                      : -0.414006948471069 -1.06747961044312 -0.303723931312561
+[Doc259]        Sample Time                     : 8.61 s
+[Doc259]        Sample Duration                 : 0.03 s
+[Doc259]        Angle Axis                      : -0.417347192764282 -1.06943774223328 -0.300538569688797
+[Doc260]        Sample Time                     : 8.64 s
+[Doc260]        Sample Duration                 : 0.03 s
+[Doc260]        Angle Axis                      : -0.431002587080002 -1.07416534423828 -0.293232947587967
+[Doc261]        Sample Time                     : 8.68 s
+[Doc261]        Sample Duration                 : 0.03 s
+[Doc261]        Angle Axis                      : -0.448033094406128 -1.05670595169067 -0.293813705444336
+[Doc262]        Sample Time                     : 8.71 s
+[Doc262]        Sample Duration                 : 0.03 s
+[Doc262]        Angle Axis                      : -0.45671159029007 -1.07353866100311 -0.284356862306595
+[Doc263]        Sample Time                     : 8.74 s
+[Doc263]        Sample Duration                 : 0.03 s
+[Doc263]        Angle Axis                      : -0.457893580198288 -1.08936858177185 -0.281815826892853
+[Doc264]        Sample Time                     : 8.78 s
+[Doc264]        Sample Duration                 : 0.03 s
+[Doc264]        Angle Axis                      : -0.453417658805847 -1.10979413986206 -0.274829357862473
+[Doc265]        Sample Time                     : 8.81 s
+[Doc265]        Sample Duration                 : 0.03 s
+[Doc265]        Angle Axis                      : -0.445746004581451 -1.12712681293488 -0.257772713899612
+[Doc266]        Sample Time                     : 8.84 s
+[Doc266]        Sample Duration                 : 0.03 s
+[Doc266]        Angle Axis                      : -0.441361606121063 -1.14986169338226 -0.238948985934258
+[Doc267]        Sample Time                     : 8.88 s
+[Doc267]        Sample Duration                 : 0.03 s
+[Doc267]        Angle Axis                      : -0.435367494821548 -1.16754519939423 -0.229460448026657
+[Doc268]        Sample Time                     : 8.91 s
+[Doc268]        Sample Duration                 : 0.03 s
+[Doc268]        Angle Axis                      : -0.431199014186859 -1.18177425861359 -0.229312837123871
+[Doc269]        Sample Time                     : 8.94 s
+[Doc269]        Sample Duration                 : 0.03 s
+[Doc269]        Angle Axis                      : -0.434559762477875 -1.19311499595642 -0.234692811965942
+[Doc270]        Sample Time                     : 8.98 s
+[Doc270]        Sample Duration                 : 0.03 s
+[Doc270]        Angle Axis                      : -0.440620362758636 -1.20587909221649 -0.2373176664114
+[Doc271]        Sample Time                     : 9.01 s
+[Doc271]        Sample Duration                 : 0.03 s
+[Doc271]        Angle Axis                      : -0.444783836603165 -1.22358024120331 -0.238739177584648
+[Doc272]        Sample Time                     : 9.04 s
+[Doc272]        Sample Duration                 : 0.03 s
+[Doc272]        Angle Axis                      : -0.449484318494797 -1.24791431427002 -0.241136431694031
+[Doc273]        Sample Time                     : 9.08 s
+[Doc273]        Sample Duration                 : 0.03 s
+[Doc273]        Angle Axis                      : -0.455251693725586 -1.27935898303986 -0.241807296872139
+[Doc274]        Sample Time                     : 9.11 s
+[Doc274]        Sample Duration                 : 0.03 s
+[Doc274]        Angle Axis                      : -0.45962393283844 -1.30473411083221 -0.243939265608788
+[Doc275]        Sample Time                     : 9.14 s
+[Doc275]        Sample Duration                 : 0.03 s
+[Doc275]        Angle Axis                      : -0.464051634073257 -1.32591331005096 -0.249375194311142
+[Doc276]        Sample Time                     : 9.18 s
+[Doc276]        Sample Duration                 : 0.03 s
+[Doc276]        Angle Axis                      : -0.465669959783554 -1.34754455089569 -0.251978784799576
+[Doc277]        Sample Time                     : 9.21 s
+[Doc277]        Sample Duration                 : 0.03 s
+[Doc277]        Angle Axis                      : -0.46543475985527 -1.37593483924866 -0.249194622039795
+[Doc278]        Sample Time                     : 9.24 s
+[Doc278]        Sample Duration                 : 0.03 s
+[Doc278]        Angle Axis                      : -0.465319395065308 -1.39505791664124 -0.244910344481468
+[Doc279]        Sample Time                     : 9.28 s
+[Doc279]        Sample Duration                 : 0.03 s
+[Doc279]        Angle Axis                      : -0.469433218240738 -1.41472470760345 -0.242532923817635
+[Doc280]        Sample Time                     : 9.31 s
+[Doc280]        Sample Duration                 : 0.03 s
+[Doc280]        Angle Axis                      : -0.470042765140533 -1.43621098995209 -0.238289535045624
+[Doc281]        Sample Time                     : 9.34 s
+[Doc281]        Sample Duration                 : 0.03 s
+[Doc281]        Angle Axis                      : -0.465985417366028 -1.45311403274536 -0.239095076918602
+[Doc282]        Sample Time                     : 9.38 s
+[Doc282]        Sample Duration                 : 0.03 s
+[Doc282]        Angle Axis                      : -0.463246166706085 -1.47145855426788 -0.244578033685684
+[Doc283]        Sample Time                     : 9.41 s
+[Doc283]        Sample Duration                 : 0.03 s
+[Doc283]        Angle Axis                      : -0.457890570163727 -1.49023616313934 -0.243322014808655
+[Doc284]        Sample Time                     : 9.44 s
+[Doc284]        Sample Duration                 : 0.03 s
+[Doc284]        Angle Axis                      : -0.451238870620728 -1.51013362407684 -0.241017535328865
+[Doc285]        Sample Time                     : 9.48 s
+[Doc285]        Sample Duration                 : 0.03 s
+[Doc285]        Angle Axis                      : -0.4467893242836 -1.52903997898102 -0.238876298069954
+[Doc286]        Sample Time                     : 9.51 s
+[Doc286]        Sample Duration                 : 0.03 s
+[Doc286]        Angle Axis                      : -0.446478307247162 -1.53308439254761 -0.243492513895035
+[Doc287]        Sample Time                     : 9.54 s
+[Doc287]        Sample Duration                 : 0.03 s
+[Doc287]        Angle Axis                      : -0.441955626010895 -1.54152250289917 -0.247186914086342
+[Doc288]        Sample Time                     : 9.58 s
+[Doc288]        Sample Duration                 : 0.03 s
+[Doc288]        Angle Axis                      : -0.430002629756927 -1.54793000221252 -0.259149670600891
+[Doc289]        Sample Time                     : 9.61 s
+[Doc289]        Sample Duration                 : 0.03 s
+[Doc289]        Angle Axis                      : -0.419432759284973 -1.55431520938873 -0.267770111560822
+[Doc290]        Sample Time                     : 9.64 s
+[Doc290]        Sample Duration                 : 0.03 s
+[Doc290]        Angle Axis                      : -0.414887011051178 -1.5601555109024 -0.271007865667343
+[Doc291]        Sample Time                     : 9.68 s
+[Doc291]        Sample Duration                 : 0.03 s
+[Doc291]        Angle Axis                      : -0.41544771194458 -1.56492722034454 -0.273600488901138
+[Doc292]        Sample Time                     : 9.71 s
+[Doc292]        Sample Duration                 : 0.03 s
+[Doc292]        Angle Axis                      : -0.419644296169281 -1.56800675392151 -0.277361929416656
+[Doc293]        Sample Time                     : 9.74 s
+[Doc293]        Sample Duration                 : 0.03 s
+[Doc293]        Angle Axis                      : -0.420884341001511 -1.57251143455505 -0.278790295124054
+[Doc294]        Sample Time                     : 9.78 s
+[Doc294]        Sample Duration                 : 0.03 s
+[Doc294]        Angle Axis                      : -0.419228166341782 -1.57813119888306 -0.281808316707611
+[Doc295]        Sample Time                     : 9.81 s
+[Doc295]        Sample Duration                 : 0.03 s
+[Doc295]        Angle Axis                      : -0.418477177619934 -1.5795214176178 -0.284433931112289
+[Doc296]        Sample Time                     : 9.84 s
+[Doc296]        Sample Duration                 : 0.03 s
+[Doc296]        Angle Axis                      : -0.420779585838318 -1.58034384250641 -0.28504678606987
+[Doc297]        Sample Time                     : 9.88 s
+[Doc297]        Sample Duration                 : 0.03 s
+[Doc297]        Angle Axis                      : -0.423370331525803 -1.58318173885345 -0.284486085176468
+[Doc298]        Sample Time                     : 9.91 s
+[Doc298]        Sample Duration                 : 0.03 s
+[Doc298]        Angle Axis                      : -0.424343675374985 -1.58406436443329 -0.287729769945145
+[Doc299]        Sample Time                     : 9.94 s
+[Doc299]        Sample Duration                 : 0.03 s
+[Doc299]        Angle Axis                      : -0.424446374177933 -1.58905529975891 -0.289798140525818
+[Doc300]        Sample Time                     : 9.98 s
+[Doc300]        Sample Duration                 : 0.03 s
+[Doc300]        Angle Axis                      : -0.424994587898254 -1.59510397911072 -0.290531873703003
+[Doc301]        Sample Time                     : 10.01 s
+[Doc301]        Sample Duration                 : 0.03 s
+[Doc301]        Angle Axis                      : -0.42425212264061 -1.60277378559113 -0.292661666870117
+[Doc302]        Sample Time                     : 10.04 s
+[Doc302]        Sample Duration                 : 0.03 s
+[Doc302]        Angle Axis                      : -0.421003490686417 -1.6116691827774 -0.292968481779099
+[Doc303]        Sample Time                     : 10.08 s
+[Doc303]        Sample Duration                 : 0.03 s
+[Doc303]        Angle Axis                      : -0.41582927107811 -1.61995196342468 -0.294239103794098
+[Doc304]        Sample Time                     : 10.11 s
+[Doc304]        Sample Duration                 : 0.03 s
+[Doc304]        Angle Axis                      : -0.411835551261902 -1.62914097309113 -0.295904278755188
+[Doc305]        Sample Time                     : 10.14 s
+[Doc305]        Sample Duration                 : 0.03 s
+[Doc305]        Angle Axis                      : -0.404989451169968 -1.64152896404266 -0.297628730535507
+[Doc306]        Sample Time                     : 10.18 s
+[Doc306]        Sample Duration                 : 0.03 s
+[Doc306]        Angle Axis                      : -0.396038740873337 -1.65208518505096 -0.303920775651932
+[Doc307]        Sample Time                     : 10.21 s
+[Doc307]        Sample Duration                 : 0.03 s
+[Doc307]        Angle Axis                      : -0.394580066204071 -1.66623497009277 -0.304240822792053
+[Doc308]        Sample Time                     : 10.24 s
+[Doc308]        Sample Duration                 : 0.03 s
+[Doc308]        Angle Axis                      : -0.398640066385269 -1.68578672409058 -0.308368146419525
+[Doc309]        Sample Time                     : 10.28 s
+[Doc309]        Sample Duration                 : 0.03 s
+[Doc309]        Angle Axis                      : -0.391719520092011 -1.70188581943512 -0.31952565908432
+[Doc310]        Sample Time                     : 10.31 s
+[Doc310]        Sample Duration                 : 0.03 s
+[Doc310]        Angle Axis                      : -0.387699246406555 -1.71910905838013 -0.323772996664047
+[Doc311]        Sample Time                     : 10.34 s
+[Doc311]        Sample Duration                 : 0.03 s
+[Doc311]        Angle Axis                      : -0.386946469545364 -1.73468124866486 -0.332080990076065
+[Doc312]        Sample Time                     : 10.38 s
+[Doc312]        Sample Duration                 : 0.03 s
+[Doc312]        Angle Axis                      : -0.381997495889664 -1.74849712848663 -0.342902928590775
+[Doc313]        Sample Time                     : 10.41 s
+[Doc313]        Sample Duration                 : 0.03 s
+[Doc313]        Angle Axis                      : -0.378871470689774 -1.75946342945099 -0.349046379327774
+[Doc314]        Sample Time                     : 10.44 s
+[Doc314]        Sample Duration                 : 0.03 s
+[Doc314]        Angle Axis                      : -0.374013960361481 -1.76929187774658 -0.352508544921875
+[Doc315]        Sample Time                     : 10.48 s
+[Doc315]        Sample Duration                 : 0.03 s
+[Doc315]        Angle Axis                      : -0.369454115629196 -1.77913999557495 -0.353905528783798
+[Doc316]        Sample Time                     : 10.51 s
+[Doc316]        Sample Duration                 : 0.03 s
+[Doc316]        Angle Axis                      : -0.364925801753998 -1.78956210613251 -0.356374680995941
+[Doc317]        Sample Time                     : 10.54 s
+[Doc317]        Sample Duration                 : 0.03 s
+[Doc317]        Angle Axis                      : -0.364039391279221 -1.79691135883331 -0.357863932847977
+[Doc318]        Sample Time                     : 10.58 s
+[Doc318]        Sample Duration                 : 0.03 s
+[Doc318]        Angle Axis                      : -0.366049528121948 -1.80469715595245 -0.357490420341492
+[Doc319]        Sample Time                     : 10.61 s
+[Doc319]        Sample Duration                 : 0.03 s
+[Doc319]        Angle Axis                      : -0.368241846561432 -1.81122803688049 -0.36138254404068
+[Doc320]        Sample Time                     : 10.64 s
+[Doc320]        Sample Duration                 : 0.03 s
+[Doc320]        Angle Axis                      : -0.375361502170563 -1.82120227813721 -0.361487179994583
+[Doc321]        Sample Time                     : 10.68 s
+[Doc321]        Sample Duration                 : 0.03 s
+[Doc321]        Angle Axis                      : -0.382013231515884 -1.83199894428253 -0.364944756031036
+[Doc322]        Sample Time                     : 10.71 s
+[Doc322]        Sample Duration                 : 0.03 s
+[Doc322]        Angle Axis                      : -0.383600771427155 -1.84036910533905 -0.371305286884308
+[Doc323]        Sample Time                     : 10.74 s
+[Doc323]        Sample Duration                 : 0.03 s
+[Doc323]        Angle Axis                      : -0.38790026307106 -1.84786117076874 -0.375293850898743
+[Doc324]        Sample Time                     : 10.78 s
+[Doc324]        Sample Duration                 : 0.03 s
+[Doc324]        Angle Axis                      : -0.392479538917542 -1.85700023174286 -0.374996095895767
+[Doc325]        Sample Time                     : 10.81 s
+[Doc325]        Sample Duration                 : 0.03 s
+[Doc325]        Angle Axis                      : -0.400373935699463 -1.86584007740021 -0.374463051557541
+[Doc326]        Sample Time                     : 10.84 s
+[Doc326]        Sample Duration                 : 0.03 s
+[Doc326]        Angle Axis                      : -0.410406798124313 -1.87142741680145 -0.387357026338577
+[Doc327]        Sample Time                     : 10.88 s
+[Doc327]        Sample Duration                 : 0.03 s
+[Doc327]        Angle Axis                      : -0.411721885204315 -1.87914621829987 -0.400975614786148
+[Doc328]        Sample Time                     : 10.91 s
+[Doc328]        Sample Duration                 : 0.03 s
+[Doc328]        Angle Axis                      : -0.417220592498779 -1.88849580287933 -0.412679553031921
+[Doc329]        Sample Time                     : 10.94 s
+[Doc329]        Sample Duration                 : 0.03 s
+[Doc329]        Angle Axis                      : -0.42694678902626 -1.8997483253479 -0.425191313028336
+[Doc330]        Sample Time                     : 10.98 s
+[Doc330]        Sample Duration                 : 0.03 s
+[Doc330]        Angle Axis                      : -0.425582379102707 -1.91050684452057 -0.436388045549393
+[Doc331]        Sample Time                     : 11.01 s
+[Doc331]        Sample Duration                 : 0.03 s
+[Doc331]        Angle Axis                      : -0.423409134149551 -1.92278802394867 -0.445126593112946
+[Doc332]        Sample Time                     : 11.04 s
+[Doc332]        Sample Duration                 : 0.03 s
+[Doc332]        Angle Axis                      : -0.424414485692978 -1.93625426292419 -0.453255951404572
+[Doc333]        Sample Time                     : 11.08 s
+[Doc333]        Sample Duration                 : 0.03 s
+[Doc333]        Angle Axis                      : -0.425356388092041 -1.95215451717377 -0.45930352807045
+[Doc334]        Sample Time                     : 11.11 s
+[Doc334]        Sample Duration                 : 0.03 s
+[Doc334]        Angle Axis                      : -0.421243101358414 -1.97292792797089 -0.466126948595047
+[Doc335]        Sample Time                     : 11.14 s
+[Doc335]        Sample Duration                 : 0.03 s
+[Doc335]        Angle Axis                      : -0.409042656421661 -1.99369060993195 -0.482399612665176
+[Doc336]        Sample Time                     : 11.18 s
+[Doc336]        Sample Duration                 : 0.03 s
+[Doc336]        Angle Axis                      : -0.398254871368408 -2.00913572311401 -0.502963960170746
+[Doc337]        Sample Time                     : 11.21 s
+[Doc337]        Sample Duration                 : 0.03 s
+[Doc337]        Angle Axis                      : -0.395385444164276 -2.02669382095337 -0.518427133560181
+[Doc338]        Sample Time                     : 11.24 s
+[Doc338]        Sample Duration                 : 0.03 s
+[Doc338]        Angle Axis                      : -0.398827612400055 -2.041748046875 -0.532706141471863
+[Doc339]        Sample Time                     : 11.28 s
+[Doc339]        Sample Duration                 : 0.03 s
+[Doc339]        Angle Axis                      : -0.402814894914627 -2.05691289901733 -0.551537811756134
+[Doc340]        Sample Time                     : 11.31 s
+[Doc340]        Sample Duration                 : 0.03 s
+[Doc340]        Angle Axis                      : -0.404025167226791 -2.07113528251648 -0.570732235908508
+[Doc341]        Sample Time                     : 11.34 s
+[Doc341]        Sample Duration                 : 0.03 s
+[Doc341]        Angle Axis                      : -0.40157687664032 -2.08699560165405 -0.589930772781372
+[Doc342]        Sample Time                     : 11.38 s
+[Doc342]        Sample Duration                 : 0.03 s
+[Doc342]        Angle Axis                      : -0.393833756446838 -2.10251355171204 -0.606100380420685
+[Doc343]        Sample Time                     : 11.41 s
+[Doc343]        Sample Duration                 : 0.03 s
+[Doc343]        Angle Axis                      : -0.386800080537796 -2.11735343933105 -0.617245078086853
+[Doc344]        Sample Time                     : 11.44 s
+[Doc344]        Sample Duration                 : 0.03 s
+[Doc344]        Angle Axis                      : -0.382344931364059 -2.13033080101013 -0.627123713493347
+[Doc345]        Sample Time                     : 11.48 s
+[Doc345]        Sample Duration                 : 0.03 s
+[Doc345]        Angle Axis                      : -0.377684116363525 -2.14059495925903 -0.638365626335144
+[Doc346]        Sample Time                     : 11.51 s
+[Doc346]        Sample Duration                 : 0.03 s
+[Doc346]        Angle Axis                      : -0.374994486570358 -2.15100789070129 -0.650541126728058
+[Doc347]        Sample Time                     : 11.54 s
+[Doc347]        Sample Duration                 : 0.03 s
+[Doc347]        Angle Axis                      : -0.374982506036758 -2.16135454177856 -0.658530294895172
+[Doc348]        Sample Time                     : 11.58 s
+[Doc348]        Sample Duration                 : 0.03 s
+[Doc348]        Angle Axis                      : -0.374196261167526 -2.17275834083557 -0.665916860103607
+[Doc349]        Sample Time                     : 11.61 s
+[Doc349]        Sample Duration                 : 0.03 s
+[Doc349]        Angle Axis                      : -0.369491457939148 -2.18249869346619 -0.670925855636597
+[Doc350]        Sample Time                     : 11.64 s
+[Doc350]        Sample Duration                 : 0.03 s
+[Doc350]        Angle Axis                      : -0.367761731147766 -2.18988800048828 -0.67303341627121
+[Doc351]        Sample Time                     : 11.68 s
+[Doc351]        Sample Duration                 : 0.03 s
+[Doc351]        Angle Axis                      : -0.367896199226379 -2.19690585136414 -0.671834945678711
+[Doc352]        Sample Time                     : 11.71 s
+[Doc352]        Sample Duration                 : 0.03 s
+[Doc352]        Angle Axis                      : -0.367389678955078 -2.2029070854187 -0.668843746185303
+[Doc353]        Sample Time                     : 11.75 s
+[Doc353]        Sample Duration                 : 0.03 s
+[Doc353]        Angle Axis                      : -0.371138632297516 -2.20913887023926 -0.666842937469482
+[Doc354]        Sample Time                     : 11.78 s
+[Doc354]        Sample Duration                 : 0.03 s
+[Doc354]        Angle Axis                      : -0.375363081693649 -2.2179057598114 -0.665415585041046
+[Doc355]        Sample Time                     : 11.81 s
+[Doc355]        Sample Duration                 : 0.03 s
+[Doc355]        Angle Axis                      : -0.377696096897125 -2.22852873802185 -0.664131045341492
+[Doc356]        Sample Time                     : 11.85 s
+[Doc356]        Sample Duration                 : 0.03 s
+[Doc356]        Angle Axis                      : -0.375358700752258 -2.23787903785706 -0.667015373706818
+[Doc357]        Sample Time                     : 11.88 s
+[Doc357]        Sample Duration                 : 0.03 s
+[Doc357]        Angle Axis                      : -0.371750801801682 -2.24835610389709 -0.670831024646759
+[Doc358]        Sample Time                     : 11.91 s
+[Doc358]        Sample Duration                 : 0.03 s
+[Doc358]        Angle Axis                      : -0.366842120885849 -2.25797915458679 -0.671995997428894
+[Doc359]        Sample Time                     : 11.95 s
+[Doc359]        Sample Duration                 : 0.03 s
+[Doc359]        Angle Axis                      : -0.364762097597122 -2.26582527160645 -0.671936631202698
+[Doc360]        Sample Time                     : 11.98 s
+[Doc360]        Sample Duration                 : 0.03 s
+[Doc360]        Angle Axis                      : -0.362049609422684 -2.27198243141174 -0.673223674297333
+[Doc361]        Sample Time                     : 12.01 s
+[Doc361]        Sample Duration                 : 0.03 s
+[Doc361]        Angle Axis                      : -0.359260469675064 -2.27866435050964 -0.672775208950043
+[Doc362]        Sample Time                     : 12.05 s
+[Doc362]        Sample Duration                 : 0.03 s
+[Doc362]        Angle Axis                      : -0.356779247522354 -2.287442445755 -0.672557592391968
+[Doc363]        Sample Time                     : 12.08 s
+[Doc363]        Sample Duration                 : 0.03 s
+[Doc363]        Angle Axis                      : -0.352831125259399 -2.29569029808044 -0.674424350261688
+[Doc364]        Sample Time                     : 12.11 s
+[Doc364]        Sample Duration                 : 0.03 s
+[Doc364]        Angle Axis                      : -0.351146727800369 -2.30584597587585 -0.677135467529297
+[Doc365]        Sample Time                     : 12.15 s
+[Doc365]        Sample Duration                 : 0.03 s
+[Doc365]        Angle Axis                      : -0.344401240348816 -2.31498169898987 -0.681491255760193
+[Doc366]        Sample Time                     : 12.18 s
+[Doc366]        Sample Duration                 : 0.03 s
+[Doc366]        Angle Axis                      : -0.336017400026321 -2.3230288028717 -0.688815534114838
+[Doc367]        Sample Time                     : 12.21 s
+[Doc367]        Sample Duration                 : 0.03 s
+[Doc367]        Angle Axis                      : -0.329769521951675 -2.33626747131348 -0.686074793338776
+[Doc368]        Sample Time                     : 12.25 s
+[Doc368]        Sample Duration                 : 0.03 s
+[Doc368]        Angle Axis                      : -0.317592352628708 -2.34720611572266 -0.681793451309204
+[Doc369]        Sample Time                     : 12.28 s
+[Doc369]        Sample Duration                 : 0.03 s
+[Doc369]        Angle Axis                      : -0.306982666254044 -2.35748195648193 -0.678275942802429
+[Doc370]        Sample Time                     : 12.31 s
+[Doc370]        Sample Duration                 : 0.03 s
+[Doc370]        Angle Axis                      : -0.298278868198395 -2.36510705947876 -0.674305617809296
+[Doc371]        Sample Time                     : 12.35 s
+[Doc371]        Sample Duration                 : 0.03 s
+[Doc371]        Angle Axis                      : -0.304094672203064 -2.37140893936157 -0.67166543006897
+[Doc372]        Sample Time                     : 12.38 s
+[Doc372]        Sample Duration                 : 0.03 s
+[Doc372]        Angle Axis                      : -0.318131357431412 -2.38133192062378 -0.665828168392181
+[Doc373]        Sample Time                     : 12.41 s
+[Doc373]        Sample Duration                 : 0.03 s
+[Doc373]        Angle Axis                      : -0.317942589521408 -2.39443302154541 -0.659526407718658
+[Doc374]        Sample Time                     : 12.45 s
+[Doc374]        Sample Duration                 : 0.03 s
+[Doc374]        Angle Axis                      : -0.304940968751907 -2.40638375282288 -0.658364236354828
+[Doc375]        Sample Time                     : 12.48 s
+[Doc375]        Sample Duration                 : 0.03 s
+[Doc375]        Angle Axis                      : -0.299333423376083 -2.41622042655945 -0.654651403427124
+[Doc376]        Sample Time                     : 12.51 s
+[Doc376]        Sample Duration                 : 0.03 s
+[Doc376]        Angle Axis                      : -0.299071848392487 -2.42460918426514 -0.649839460849762
+[Doc377]        Sample Time                     : 12.55 s
+[Doc377]        Sample Duration                 : 0.03 s
+[Doc377]        Angle Axis                      : -0.301425993442535 -2.43493485450745 -0.644133925437927
+[Doc378]        Sample Time                     : 12.58 s
+[Doc378]        Sample Duration                 : 0.03 s
+[Doc378]        Angle Axis                      : -0.300109833478928 -2.4471435546875 -0.639910817146301
+[Doc379]        Sample Time                     : 12.61 s
+[Doc379]        Sample Duration                 : 0.03 s
+[Doc379]        Angle Axis                      : -0.29672846198082 -2.46115016937256 -0.638386487960815
+[Doc380]        Sample Time                     : 12.65 s
+[Doc380]        Sample Duration                 : 0.03 s
+[Doc380]        Angle Axis                      : -0.291125774383545 -2.47531652450562 -0.638793587684631
+[Doc381]        Sample Time                     : 12.68 s
+[Doc381]        Sample Duration                 : 0.03 s
+[Doc381]        Angle Axis                      : -0.286878973245621 -2.48874592781067 -0.638264894485474
+[Doc382]        Sample Time                     : 12.71 s
+[Doc382]        Sample Duration                 : 0.03 s
+[Doc382]        Angle Axis                      : -0.283505976200104 -2.50302767753601 -0.636690557003021
+[Doc383]        Sample Time                     : 12.75 s
+[Doc383]        Sample Duration                 : 0.03 s
+[Doc383]        Angle Axis                      : -0.280779659748077 -2.51781749725342 -0.636283874511719
+[Doc384]        Sample Time                     : 12.78 s
+[Doc384]        Sample Duration                 : 0.03 s
+[Doc384]        Angle Axis                      : -0.275721251964569 -2.53493809700012 -0.634304285049438
+[Doc385]        Sample Time                     : 12.81 s
+[Doc385]        Sample Duration                 : 0.03 s
+[Doc385]        Angle Axis                      : -0.265642255544662 -2.55048394203186 -0.637746870517731
+[Doc386]        Sample Time                     : 12.85 s
+[Doc386]        Sample Duration                 : 0.03 s
+[Doc386]        Angle Axis                      : -0.259361833333969 -2.56569385528564 -0.644581854343414
+[Doc387]        Sample Time                     : 12.88 s
+[Doc387]        Sample Duration                 : 0.03 s
+[Doc387]        Angle Axis                      : -0.25684866309166 -2.5792510509491 -0.650150775909424
+[Doc388]        Sample Time                     : 12.91 s
+[Doc388]        Sample Duration                 : 0.03 s
+[Doc388]        Angle Axis                      : -0.252379685640335 -2.59180450439453 -0.65360027551651
+[Doc389]        Sample Time                     : 12.95 s
+[Doc389]        Sample Duration                 : 0.03 s
+[Doc389]        Angle Axis                      : -0.245993182063103 -2.60177159309387 -0.657905757427216
+[Doc390]        Sample Time                     : 12.98 s
+[Doc390]        Sample Duration                 : 0.03 s
+[Doc390]        Angle Axis                      : -0.241112157702446 -2.61145949363709 -0.664343774318695
+[Doc391]        Sample Time                     : 13.01 s
+[Doc391]        Sample Duration                 : 0.03 s
+[Doc391]        Angle Axis                      : -0.230032980442047 -2.62393569946289 -0.666871726512909
+[Doc392]        Sample Time                     : 13.05 s
+[Doc392]        Sample Duration                 : 0.03 s
+[Doc392]        Angle Axis                      : -0.216376379132271 -2.63404107093811 -0.670161783695221
+[Doc393]        Sample Time                     : 13.08 s
+[Doc393]        Sample Duration                 : 0.03 s
+[Doc393]        Angle Axis                      : -0.209596022963524 -2.64395761489868 -0.669499635696411
+[Doc394]        Sample Time                     : 13.11 s
+[Doc394]        Sample Duration                 : 0.03 s
+[Doc394]        Angle Axis                      : -0.202841654419899 -2.65282917022705 -0.669294953346252
+[Doc395]        Sample Time                     : 13.15 s
+[Doc395]        Sample Duration                 : 0.03 s
+[Doc395]        Angle Axis                      : -0.196834206581116 -2.65914702415466 -0.666180372238159
+[Doc396]        Sample Time                     : 13.18 s
+[Doc396]        Sample Duration                 : 0.03 s
+[Doc396]        Angle Axis                      : -0.194025352597237 -2.66486120223999 -0.662148714065552
+[Doc397]        Sample Time                     : 13.21 s
+[Doc397]        Sample Duration                 : 0.03 s
+[Doc397]        Angle Axis                      : -0.191747650504112 -2.66752362251282 -0.656611263751984
+[Doc398]        Sample Time                     : 13.25 s
+[Doc398]        Sample Duration                 : 0.03 s
+[Doc398]        Angle Axis                      : -0.190333187580109 -2.66631412506104 -0.649060606956482
+[Doc399]        Sample Time                     : 13.28 s
+[Doc399]        Sample Duration                 : 0.03 s
+[Doc399]        Angle Axis                      : -0.188075974583626 -2.66113185882568 -0.64209908246994
+[Doc400]        Sample Time                     : 13.31 s
+[Doc400]        Sample Duration                 : 0.03 s
+[Doc400]        Angle Axis                      : -0.18398679792881 -2.64994788169861 -0.632427513599396
+[Doc401]        Sample Time                     : 13.35 s
+[Doc401]        Sample Duration                 : 0.03 s
+[Doc401]        Angle Axis                      : -0.186886504292488 -2.64510154724121 -0.624491453170776
+[Doc402]        Sample Time                     : 13.38 s
+[Doc402]        Sample Duration                 : 0.03 s
+[Doc402]        Angle Axis                      : -0.19027741253376 -2.63880896568298 -0.616286516189575
+[Doc403]        Sample Time                     : 13.41 s
+[Doc403]        Sample Duration                 : 0.03 s
+[Doc403]        Angle Axis                      : -0.193023934960365 -2.63485193252563 -0.613029837608337
+[Doc404]        Sample Time                     : 13.45 s
+[Doc404]        Sample Duration                 : 0.03 s
+[Doc404]        Angle Axis                      : -0.198675528168678 -2.63010430335999 -0.611604869365692
+[Doc405]        Sample Time                     : 13.48 s
+[Doc405]        Sample Duration                 : 0.03 s
+[Doc405]        Angle Axis                      : -0.200679823756218 -2.62309789657593 -0.61246520280838
+[Doc406]        Sample Time                     : 13.51 s
+[Doc406]        Sample Duration                 : 0.03 s
+[Doc406]        Angle Axis                      : -0.19741016626358 -2.61367654800415 -0.615979969501495
+[Doc407]        Sample Time                     : 13.55 s
+[Doc407]        Sample Duration                 : 0.03 s
+[Doc407]        Angle Axis                      : -0.200051248073578 -2.60439443588257 -0.61592298746109
+[Doc408]        Sample Time                     : 13.58 s
+[Doc408]        Sample Duration                 : 0.03 s
+[Doc408]        Angle Axis                      : -0.198949262499809 -2.59333276748657 -0.610224783420563
+[Doc409]        Sample Time                     : 13.61 s
+[Doc409]        Sample Duration                 : 0.03 s
+[Doc409]        Angle Axis                      : -0.191835463047028 -2.58083844184875 -0.604765236377716
+[Doc410]        Sample Time                     : 13.65 s
+[Doc410]        Sample Duration                 : 0.03 s
+[Doc410]        Angle Axis                      : -0.188743308186531 -2.56718635559082 -0.596882462501526
+[Doc411]        Sample Time                     : 13.68 s
+[Doc411]        Sample Duration                 : 0.03 s
+[Doc411]        Angle Axis                      : -0.188023373484612 -2.55384206771851 -0.593608498573303
+[Doc412]        Sample Time                     : 13.71 s
+[Doc412]        Sample Duration                 : 0.03 s
+[Doc412]        Angle Axis                      : -0.193215727806091 -2.54051160812378 -0.594138264656067
+[Doc413]        Sample Time                     : 13.75 s
+[Doc413]        Sample Duration                 : 0.03 s
+[Doc413]        Angle Axis                      : -0.196240559220314 -2.53194642066956 -0.591765522956848
+[Doc414]        Sample Time                     : 13.78 s
+[Doc414]        Sample Duration                 : 0.03 s
+[Doc414]        Angle Axis                      : -0.191283509135246 -2.52855110168457 -0.590435266494751
+[Doc415]        Sample Time                     : 13.81 s
+[Doc415]        Sample Duration                 : 0.03 s
+[Doc415]        Angle Axis                      : -0.183036908507347 -2.52386021614075 -0.591062843799591
+[Doc416]        Sample Time                     : 13.85 s
+[Doc416]        Sample Duration                 : 0.03 s
+[Doc416]        Angle Axis                      : -0.177260190248489 -2.52174615859985 -0.594909131526947
+[Doc417]        Sample Time                     : 13.88 s
+[Doc417]        Sample Duration                 : 0.03 s
+[Doc417]        Angle Axis                      : -0.170976027846336 -2.51924109458923 -0.598806440830231
+[Doc418]        Sample Time                     : 13.91 s
+[Doc418]        Sample Duration                 : 0.03 s
+[Doc418]        Angle Axis                      : -0.167907163500786 -2.5191855430603 -0.59935075044632
+[Doc419]        Sample Time                     : 13.95 s
+[Doc419]        Sample Duration                 : 0.03 s
+[Doc419]        Angle Axis                      : -0.163760185241699 -2.51970672607422 -0.598595857620239
+[Doc420]        Sample Time                     : 13.98 s
+[Doc420]        Sample Duration                 : 0.03 s
+[Doc420]        Angle Axis                      : -0.160990759730339 -2.52115941047668 -0.599160134792328
+[Doc421]        Sample Time                     : 14.01 s
+[Doc421]        Sample Duration                 : 0.03 s
+[Doc421]        Angle Axis                      : -0.160480052232742 -2.52319860458374 -0.600593030452728
+[Doc422]        Sample Time                     : 14.05 s
+[Doc422]        Sample Duration                 : 0.03 s
+[Doc422]        Angle Axis                      : -0.162392154335976 -2.52415728569031 -0.604623138904572
+[Doc423]        Sample Time                     : 14.08 s
+[Doc423]        Sample Duration                 : 0.03 s
+[Doc423]        Angle Axis                      : -0.164308071136475 -2.52514052391052 -0.609260261058807
+[Doc424]        Sample Time                     : 14.11 s
+[Doc424]        Sample Duration                 : 0.03 s
+[Doc424]        Angle Axis                      : -0.162253141403198 -2.52854347229004 -0.612878799438477
+[Doc425]        Sample Time                     : 14.15 s
+[Doc425]        Sample Duration                 : 0.03 s
+[Doc425]        Angle Axis                      : -0.157389372587204 -2.53356051445007 -0.614536941051483
+[Doc426]        Sample Time                     : 14.18 s
+[Doc426]        Sample Duration                 : 0.03 s
+[Doc426]        Angle Axis                      : -0.153292402625084 -2.53811144828796 -0.614888548851013
+[Doc427]        Sample Time                     : 14.21 s
+[Doc427]        Sample Duration                 : 0.03 s
+[Doc427]        Angle Axis                      : -0.152763783931732 -2.54010558128357 -0.614793479442596
+[Doc428]        Sample Time                     : 14.25 s
+[Doc428]        Sample Duration                 : 0.03 s
+[Doc428]        Angle Axis                      : -0.157013207674026 -2.54511022567749 -0.616133034229279
+[Doc429]        Sample Time                     : 14.28 s
+[Doc429]        Sample Duration                 : 0.03 s
+[Doc429]        Angle Axis                      : -0.158321350812912 -2.55338668823242 -0.616907954216003
+[Doc430]        Sample Time                     : 14.31 s
+[Doc430]        Sample Duration                 : 0.03 s
+[Doc430]        Angle Axis                      : -0.159541189670563 -2.56577253341675 -0.61757880449295
+[Doc431]        Sample Time                     : 14.35 s
+[Doc431]        Sample Duration                 : 0.03 s
+[Doc431]        Angle Axis                      : -0.157358229160309 -2.58095407485962 -0.618373274803162
+[Doc432]        Sample Time                     : 14.38 s
+[Doc432]        Sample Duration                 : 0.03 s
+[Doc432]        Angle Axis                      : -0.15322183072567 -2.59639954566956 -0.61940336227417
+[Doc433]        Sample Time                     : 14.41 s
+[Doc433]        Sample Duration                 : 0.03 s
+[Doc433]        Angle Axis                      : -0.153934568166733 -2.61373424530029 -0.61886191368103
+[Doc434]        Sample Time                     : 14.45 s
+[Doc434]        Sample Duration                 : 0.03 s
+[Doc434]        Angle Axis                      : -0.155893981456757 -2.63464045524597 -0.619792699813843
+[Doc435]        Sample Time                     : 14.48 s
+[Doc435]        Sample Duration                 : 0.03 s
+[Doc435]        Angle Axis                      : -0.153991773724556 -2.65557336807251 -0.624828636646271
+[Doc436]        Sample Time                     : 14.51 s
+[Doc436]        Sample Duration                 : 0.03 s
+[Doc436]        Angle Axis                      : -0.159047544002533 -2.68132543563843 -0.632250308990479
+[Doc437]        Sample Time                     : 14.55 s
+[Doc437]        Sample Duration                 : 0.03 s
+[Doc437]        Angle Axis                      : -0.15425069630146 -2.70589303970337 -0.63713413476944
+[Doc438]        Sample Time                     : 14.58 s
+[Doc438]        Sample Duration                 : 0.03 s
+[Doc438]        Angle Axis                      : -0.14815779030323 -2.73110914230347 -0.644915580749512
+[Doc439]        Sample Time                     : 14.61 s
+[Doc439]        Sample Duration                 : 0.03 s
+[Doc439]        Angle Axis                      : -0.146299913525581 -2.75443577766418 -0.658036947250366
+[Doc440]        Sample Time                     : 14.65 s
+[Doc440]        Sample Duration                 : 0.03 s
+[Doc440]        Angle Axis                      : -0.142883226275444 -2.77366065979004 -0.666095435619354
+[Doc441]        Sample Time                     : 14.68 s
+[Doc441]        Sample Duration                 : 0.03 s
+[Doc441]        Angle Axis                      : -0.132711663842201 -2.79133868217468 -0.673724114894867
+[Doc442]        Sample Time                     : 14.71 s
+[Doc442]        Sample Duration                 : 0.03 s
+[Doc442]        Angle Axis                      : -0.121247820556164 -2.80389928817749 -0.680090248584747
+[Doc443]        Sample Time                     : 14.75 s
+[Doc443]        Sample Duration                 : 0.03 s
+[Doc443]        Angle Axis                      : -0.119947634637356 -2.81363344192505 -0.688785135746002
+[Doc444]        Sample Time                     : 14.78 s
+[Doc444]        Sample Duration                 : 0.03 s
+[Doc444]        Angle Axis                      : -0.12165380269289 -2.82050251960754 -0.695218205451965
+[Doc445]        Sample Time                     : 14.81 s
+[Doc445]        Sample Duration                 : 0.03 s
+[Doc445]        Angle Axis                      : -0.126106575131416 -2.82878875732422 -0.693598866462708
+[Doc446]        Sample Time                     : 14.85 s
+[Doc446]        Sample Duration                 : 0.03 s
+[Doc446]        Angle Axis                      : -0.129331842064857 -2.83826398849487 -0.689943492412567
+[Doc447]        Sample Time                     : 14.88 s
+[Doc447]        Sample Duration                 : 0.03 s
+[Doc447]        Angle Axis                      : -0.131478115916252 -2.84716439247131 -0.685995876789093
+[Doc448]        Sample Time                     : 14.91 s
+[Doc448]        Sample Duration                 : 0.03 s
+[Doc448]        Angle Axis                      : -0.133885622024536 -2.85295271873474 -0.683357357978821
+[Doc449]        Sample Time                     : 14.95 s
+[Doc449]        Sample Duration                 : 0.03 s
+[Doc449]        Angle Axis                      : -0.138365060091019 -2.85969948768616 -0.679214537143707
+[Doc450]        Sample Time                     : 14.98 s
+[Doc450]        Sample Duration                 : 0.03 s
+[Doc450]        Angle Axis                      : -0.14470873773098 -2.86605215072632 -0.674975156784058
+[Doc451]        Sample Time                     : 15.02 s
+[Doc451]        Sample Duration                 : 0.03 s
+[Doc451]        Angle Axis                      : -0.154647007584572 -2.8731689453125 -0.672512352466583
+[Doc452]        Sample Time                     : 15.05 s
+[Doc452]        Sample Duration                 : 0.03 s
+[Doc452]        Angle Axis                      : -0.165828287601471 -2.87896871566772 -0.668592691421509
+[Doc453]        Sample Time                     : 15.08 s
+[Doc453]        Sample Duration                 : 0.03 s
+[Doc453]        Angle Axis                      : -0.172682568430901 -2.88131904602051 -0.663440525531769
+[Doc454]        Sample Time                     : 15.12 s
+[Doc454]        Sample Duration                 : 0.03 s
+[Doc454]        Angle Axis                      : -0.176400750875473 -2.87864589691162 -0.66076922416687
+[Doc455]        Sample Time                     : 15.15 s
+[Doc455]        Sample Duration                 : 0.03 s
+[Doc455]        Angle Axis                      : -0.187069267034531 -2.87541007995605 -0.660847961902618
+[Doc456]        Sample Time                     : 15.18 s
+[Doc456]        Sample Duration                 : 0.03 s
+[Doc456]        Angle Axis                      : -0.202629804611206 -2.87028241157532 -0.66074013710022
+[Doc457]        Sample Time                     : 15.22 s
+[Doc457]        Sample Duration                 : 0.03 s
+[Doc457]        Angle Axis                      : -0.211614102125168 -2.86641311645508 -0.667396128177643
+[Doc458]        Sample Time                     : 15.25 s
+[Doc458]        Sample Duration                 : 0.03 s
+[Doc458]        Angle Axis                      : -0.211384296417236 -2.86598944664001 -0.679374158382416
+[Doc459]        Sample Time                     : 15.28 s
+[Doc459]        Sample Duration                 : 0.03 s
+[Doc459]        Angle Axis                      : -0.207557559013367 -2.86732840538025 -0.700191617012024
+[Doc460]        Sample Time                     : 15.32 s
+[Doc460]        Sample Duration                 : 0.03 s
+[Doc460]        Angle Axis                      : -0.202892452478409 -2.87331223487854 -0.717483758926392
+[Doc461]        Sample Time                     : 15.35 s
+[Doc461]        Sample Duration                 : 0.03 s
+[Doc461]        Angle Axis                      : -0.183657377958298 -2.88179397583008 -0.731365859508514
+[Doc462]        Sample Time                     : 15.38 s
+[Doc462]        Sample Duration                 : 0.03 s
+[Doc462]        Angle Axis                      : -0.161763176321983 -2.89191365242004 -0.737387359142303
+[Doc463]        Sample Time                     : 15.42 s
+[Doc463]        Sample Duration                 : 0.03 s
+[Doc463]        Angle Axis                      : -0.146618500351906 -2.90444016456604 -0.741650462150574
+[Doc464]        Sample Time                     : 15.45 s
+[Doc464]        Sample Duration                 : 0.03 s
+[Doc464]        Angle Axis                      : -0.139595329761505 -2.9164879322052 -0.743261277675629
+[Doc465]        Sample Time                     : 15.48 s
+[Doc465]        Sample Duration                 : 0.03 s
+[Doc465]        Angle Axis                      : -0.135374456644058 -2.9249267578125 -0.744158267974854
+[Doc466]        Sample Time                     : 15.52 s
+[Doc466]        Sample Duration                 : 0.03 s
+[Doc466]        Angle Axis                      : -0.131661206483841 -2.92957019805908 -0.740414679050446
+[Doc467]        Sample Time                     : 15.55 s
+[Doc467]        Sample Duration                 : 0.03 s
+[Doc467]        Angle Axis                      : -0.118201777338982 -2.93176078796387 -0.738633394241333
+[Doc468]        Sample Time                     : 15.58 s
+[Doc468]        Sample Duration                 : 0.03 s
+[Doc468]        Angle Axis                      : -0.0966518148779869 -2.9256329536438 -0.746594190597534
+[Doc469]        Sample Time                     : 15.62 s
+[Doc469]        Sample Duration                 : 0.03 s
+[Doc469]        Angle Axis                      : -0.0925471037626266 -2.91986727714539 -0.75746887922287
+[Doc470]        Sample Time                     : 15.65 s
+[Doc470]        Sample Duration                 : 0.03 s
+[Doc470]        Angle Axis                      : -0.0996909886598587 -2.92656993865967 -0.771734237670898
+[Doc471]        Sample Time                     : 15.68 s
+[Doc471]        Sample Duration                 : 0.03 s
+[Doc471]        Angle Axis                      : -0.0864724293351173 -2.93838286399841 -0.792145013809204
+[Doc472]        Sample Time                     : 15.72 s
+[Doc472]        Sample Duration                 : 0.03 s
+[Doc472]        Angle Axis                      : -0.0782193168997765 -2.95672965049744 -0.79398649930954
+[Doc473]        Sample Time                     : 15.75 s
+[Doc473]        Sample Duration                 : 0.03 s
+[Doc473]        Angle Axis                      : -0.0900197252631187 -2.9848427772522 -0.796699464321136
+[Doc474]        Sample Time                     : 15.78 s
+[Doc474]        Sample Duration                 : 0.03 s
+[Doc474]        Angle Axis                      : -0.0818231403827667 -3.0072078704834 -0.813643038272858
+[Doc475]        Sample Time                     : 15.82 s
+[Doc475]        Sample Duration                 : 0.03 s
+[Doc475]        Angle Axis                      : -0.0761104226112366 -3.02343678474426 -0.824455738067627
+[Doc476]        Sample Time                     : 15.85 s
+[Doc476]        Sample Duration                 : 0.03 s
+[Doc476]        Angle Axis                      : -0.0769741013646126 -3.0379798412323 -0.828081071376801
+[Doc477]        Sample Time                     : 15.88 s
+[Doc477]        Sample Duration                 : 0.03 s
+[Doc477]        Angle Axis                      : -0.0755570530891418 -3.05363845825195 -0.845138669013977
+[Doc478]        Sample Time                     : 15.92 s
+[Doc478]        Sample Duration                 : 0.03 s
+[Doc478]        Angle Axis                      : -0.0776684209704399 -3.07641530036926 -0.849828958511353
+[Doc479]        Sample Time                     : 15.95 s
+[Doc479]        Sample Duration                 : 0.03 s
+[Doc479]        Angle Axis                      : -0.066623255610466 -3.09539103507996 -0.851700961589813
+[Doc480]        Sample Time                     : 15.98 s
+[Doc480]        Sample Duration                 : 0.03 s
+[Doc480]        Angle Axis                      : -0.0508187003433704 -3.10199522972107 -0.857540667057037
+[Doc481]        Sample Time                     : 16.02 s
+[Doc481]        Sample Duration                 : 0.03 s
+[Doc481]        Angle Axis                      : -0.0449014604091644 -3.10698795318604 -0.862924814224243
+[Doc482]        Sample Time                     : 16.05 s
+[Doc482]        Sample Duration                 : 0.03 s
+[Doc482]        Angle Axis                      : -0.0369942076504231 -3.1112334728241 -0.868375301361084
+[Doc483]        Sample Time                     : 16.08 s
+[Doc483]        Sample Duration                 : 0.03 s
+[Doc483]        Angle Axis                      : -0.0280771609395742 -3.1182177066803 -0.870042562484741
+[Doc484]        Sample Time                     : 16.12 s
+[Doc484]        Sample Duration                 : 0.03 s
+[Doc484]        Angle Axis                      : -0.0240885689854622 -3.12369441986084 -0.86607027053833
+[Doc485]        Sample Time                     : 16.15 s
+[Doc485]        Sample Duration                 : 0.03 s
+[Doc485]        Angle Axis                      : -0.0233926866203547 -3.13190841674805 -0.866574466228485
+[Doc486]        Sample Time                     : 16.18 s
+[Doc486]        Sample Duration                 : 0.03 s
+[Doc486]        Angle Axis                      : -0.0286358017474413 -3.1414315700531 -0.870636701583862
+[Doc487]        Sample Time                     : 16.22 s
+[Doc487]        Sample Duration                 : 0.03 s
+[Doc487]        Angle Axis                      : -0.0269121285527945 -3.15150260925293 -0.868805587291718
+[Doc488]        Sample Time                     : 16.25 s
+[Doc488]        Sample Duration                 : 0.03 s
+[Doc488]        Angle Axis                      : -0.020852679386735 -3.16295433044434 -0.867070496082306
+[Doc489]        Sample Time                     : 16.28 s
+[Doc489]        Sample Duration                 : 0.03 s
+[Doc489]        Angle Axis                      : -0.00841131340712309 -3.17459082603455 -0.87155294418335
+[Doc490]        Sample Time                     : 16.32 s
+[Doc490]        Sample Duration                 : 0.03 s
+[Doc490]        Angle Axis                      : 0.00458632363006473 -3.1872386932373 -0.873631775379181
+[Doc491]        Sample Time                     : 16.35 s
+[Doc491]        Sample Duration                 : 0.03 s
+[Doc491]        Angle Axis                      : 0.0202770419418812 -3.19856715202332 -0.875299215316772
+[Doc492]        Sample Time                     : 16.38 s
+[Doc492]        Sample Duration                 : 0.03 s
+[Doc492]        Angle Axis                      : 0.0404588729143143 -3.20750427246094 -0.880760669708252
+[Doc493]        Sample Time                     : 16.42 s
+[Doc493]        Sample Duration                 : 0.03 s
+[Doc493]        Angle Axis                      : 0.0566814057528973 -3.21369123458862 -0.887202680110931
+[Doc494]        Sample Time                     : 16.45 s
+[Doc494]        Sample Duration                 : 0.03 s
+[Doc494]        Angle Axis                      : 0.0687534883618355 -3.21735286712646 -0.889904975891113
+[Doc495]        Sample Time                     : 16.48 s
+[Doc495]        Sample Duration                 : 0.03 s
+[Doc495]        Angle Axis                      : 0.0827640816569328 -3.21985697746277 -0.892398834228516
+[Doc496]        Sample Time                     : 16.52 s
+[Doc496]        Sample Duration                 : 0.03 s
+[Doc496]        Angle Axis                      : 0.096768744289875 -3.22167015075684 -0.895760297775269
+[Doc497]        Sample Time                     : 16.55 s
+[Doc497]        Sample Duration                 : 0.03 s
+[Doc497]        Angle Axis                      : 0.108405254781246 -3.22153282165527 -0.900439977645874
+[Doc498]        Sample Time                     : 16.58 s
+[Doc498]        Sample Duration                 : 0.03 s
+[Doc498]        Angle Axis                      : 0.116523586213589 -3.22016930580139 -0.903406620025635
+[Doc499]        Sample Time                     : 16.62 s
+[Doc499]        Sample Duration                 : 0.03 s
+[Doc499]        Angle Axis                      : 0.121196173131466 -3.21874570846558 -0.898799300193787
+[Doc500]        Sample Time                     : 16.65 s
+[Doc500]        Sample Duration                 : 0.03 s
+[Doc500]        Angle Axis                      : 0.127671703696251 -3.21775150299072 -0.888602554798126
+[Doc501]        Sample Time                     : 16.68 s
+[Doc501]        Sample Duration                 : 0.03 s
+[Doc501]        Angle Axis                      : 0.127333164215088 -3.21819138526917 -0.873725831508636
+[Doc502]        Sample Time                     : 16.72 s
+[Doc502]        Sample Duration                 : 0.03 s
+[Doc502]        Angle Axis                      : 0.122305929660797 -3.21544599533081 -0.870098829269409
+[Doc503]        Sample Time                     : 16.75 s
+[Doc503]        Sample Duration                 : 0.03 s
+[Doc503]        Angle Axis                      : 0.114393457770348 -3.21229696273804 -0.892419934272766
+[Doc504]        Sample Time                     : 16.78 s
+[Doc504]        Sample Duration                 : 0.03 s
+[Doc504]        Angle Axis                      : 0.108433619141579 -3.21089267730713 -0.897782683372498
+[Doc505]        Sample Time                     : 16.82 s
+[Doc505]        Sample Duration                 : 0.03 s
+[Doc505]        Angle Axis                      : 0.118538700044155 -3.21234059333801 -0.887818098068237
+[Doc506]        Sample Time                     : 16.85 s
+[Doc506]        Sample Duration                 : 0.03 s
+[Doc506]        Angle Axis                      : 0.124912530183792 -3.21492862701416 -0.883520662784576
+[Doc507]        Sample Time                     : 16.88 s
+[Doc507]        Sample Duration                 : 0.03 s
+[Doc507]        Angle Axis                      : 0.128613203763962 -3.21641492843628 -0.880634248256683
+[Doc508]        Sample Time                     : 16.92 s
+[Doc508]        Sample Duration                 : 0.03 s
+[Doc508]        Angle Axis                      : 0.13473042845726 -3.21991801261902 -0.882881581783295
+[Doc509]        Sample Time                     : 16.95 s
+[Doc509]        Sample Duration                 : 0.03 s
+[Doc509]        Angle Axis                      : 0.14250136911869 -3.22560858726501 -0.888226747512817
+[Doc510]        Sample Time                     : 16.98 s
+[Doc510]        Sample Duration                 : 0.03 s
+[Doc510]        Angle Axis                      : 0.151612684130669 -3.23393607139587 -0.897993803024292
+[Doc511]        Sample Time                     : 17.02 s
+[Doc511]        Sample Duration                 : 0.03 s
+[Doc511]        Angle Axis                      : 0.159974068403244 -3.24360990524292 -0.904543697834015
+[Doc512]        Sample Time                     : 17.05 s
+[Doc512]        Sample Duration                 : 0.03 s
+[Doc512]        Angle Axis                      : 0.168598815798759 -3.25390410423279 -0.913146734237671
+[Doc513]        Sample Time                     : 17.08 s
+[Doc513]        Sample Duration                 : 0.03 s
+[Doc513]        Angle Axis                      : 0.176282972097397 -3.26392340660095 -0.921222388744354
+[Doc514]        Sample Time                     : 17.12 s
+[Doc514]        Sample Duration                 : 0.03 s
+[Doc514]        Angle Axis                      : 0.179372057318687 -3.27164363861084 -0.926607608795166
+[Doc515]        Sample Time                     : 17.15 s
+[Doc515]        Sample Duration                 : 0.03 s
+[Doc515]        Angle Axis                      : 0.180408135056496 -3.27820730209351 -0.932186424732208
+[Doc516]        Sample Time                     : 17.18 s
+[Doc516]        Sample Duration                 : 0.03 s
+[Doc516]        Angle Axis                      : 0.182748094201088 -3.28581309318542 -0.934000313282013
+[Doc517]        Sample Time                     : 17.22 s
+[Doc517]        Sample Duration                 : 0.03 s
+[Doc517]        Angle Axis                      : 0.18521086871624 -3.2947564125061 -0.931862354278564
+[Doc518]        Sample Time                     : 17.25 s
+[Doc518]        Sample Duration                 : 0.03 s
+[Doc518]        Angle Axis                      : 0.189345017075539 -3.3076810836792 -0.92668491601944
+[Doc519]        Sample Time                     : 17.28 s
+[Doc519]        Sample Duration                 : 0.03 s
+[Doc519]        Angle Axis                      : 0.198775097727776 -3.32215905189514 -0.919133186340332
+[Doc520]        Sample Time                     : 17.32 s
+[Doc520]        Sample Duration                 : 0.03 s
+[Doc520]        Angle Axis                      : 0.209447532892227 -3.33787441253662 -0.915165066719055
+[Doc521]        Sample Time                     : 17.35 s
+[Doc521]        Sample Duration                 : 0.03 s
+[Doc521]        Angle Axis                      : 0.218309506773949 -3.35507750511169 -0.913045406341553
+[Doc522]        Sample Time                     : 17.38 s
+[Doc522]        Sample Duration                 : 0.03 s
+[Doc522]        Angle Axis                      : 0.226928383111954 -3.37414622306824 -0.909782111644745
+[Doc523]        Sample Time                     : 17.42 s
+[Doc523]        Sample Duration                 : 0.03 s
+[Doc523]        Angle Axis                      : 0.238523632287979 -3.39534020423889 -0.906714916229248
+[Doc524]        Sample Time                     : 17.45 s
+[Doc524]        Sample Duration                 : 0.03 s
+[Doc524]        Angle Axis                      : 0.250392884016037 -3.41764688491821 -0.902463614940643
+[Doc525]        Sample Time                     : 17.48 s
+[Doc525]        Sample Duration                 : 0.03 s
+[Doc525]        Angle Axis                      : 0.267489045858383 -3.44118738174438 -0.898692727088928
+[Doc526]        Sample Time                     : 17.52 s
+[Doc526]        Sample Duration                 : 0.03 s
+[Doc526]        Angle Axis                      : 0.285552054643631 -3.46726322174072 -0.898278534412384
+[Doc527]        Sample Time                     : 17.55 s
+[Doc527]        Sample Duration                 : 0.03 s
+[Doc527]        Angle Axis                      : 0.300488024950027 -3.494948387146 -0.897656679153442
+[Doc528]        Sample Time                     : 17.58 s
+[Doc528]        Sample Duration                 : 0.03 s
+[Doc528]        Angle Axis                      : 0.319213330745697 -3.52363228797913 -0.892596542835236
+[Doc529]        Sample Time                     : 17.62 s
+[Doc529]        Sample Duration                 : 0.03 s
+[Doc529]        Angle Axis                      : 0.340989947319031 -3.54937553405762 -0.894105672836304
+[Doc530]        Sample Time                     : 17.65 s
+[Doc530]        Sample Duration                 : 0.03 s
+[Doc530]        Angle Axis                      : 0.368004351854324 -3.56986141204834 -0.90053004026413
+[Doc531]        Sample Time                     : 17.68 s
+[Doc531]        Sample Duration                 : 0.03 s
+[Doc531]        Angle Axis                      : 0.389521926641464 -3.58926749229431 -0.904175400733948
+[Doc532]        Sample Time                     : 17.72 s
+[Doc532]        Sample Duration                 : 0.03 s
+[Doc532]        Angle Axis                      : 0.423516303300858 -3.60534334182739 -0.901018798351288
+[Doc533]        Sample Time                     : 17.75 s
+[Doc533]        Sample Duration                 : 0.03 s
+[Doc533]        Angle Axis                      : 0.454733073711395 -3.62083911895752 -0.901843965053558
+[Doc534]        Sample Time                     : 17.78 s
+[Doc534]        Sample Duration                 : 0.03 s
+[Doc534]        Angle Axis                      : 0.477196455001831 -3.6348180770874 -0.906866848468781
+[Doc535]        Sample Time                     : 17.82 s
+[Doc535]        Sample Duration                 : 0.03 s
+[Doc535]        Angle Axis                      : 0.498618751764297 -3.6458957195282 -0.920858681201935
+[Doc536]        Sample Time                     : 17.85 s
+[Doc536]        Sample Duration                 : 0.03 s
+[Doc536]        Angle Axis                      : 0.510611474514008 -3.65741515159607 -0.93313068151474
+[Doc537]        Sample Time                     : 17.88 s
+[Doc537]        Sample Duration                 : 0.03 s
+[Doc537]        Angle Axis                      : 0.519092977046967 -3.66930890083313 -0.939825713634491
+[Doc538]        Sample Time                     : 17.92 s
+[Doc538]        Sample Duration                 : 0.03 s
+[Doc538]        Angle Axis                      : 0.524064779281616 -3.68162417411804 -0.948862075805664
+[Doc539]        Sample Time                     : 17.95 s
+[Doc539]        Sample Duration                 : 0.03 s
+[Doc539]        Angle Axis                      : 0.528650760650635 -3.69459748268127 -0.958430647850037
+[Doc540]        Sample Time                     : 17.98 s
+[Doc540]        Sample Duration                 : 0.03 s
+[Doc540]        Angle Axis                      : 0.53507137298584 -3.70922374725342 -0.96840226650238
+[Doc541]        Sample Time                     : 18.02 s
+[Doc541]        Sample Duration                 : 0.03 s
+[Doc541]        Angle Axis                      : 0.542874157428741 -3.72567486763 -0.973536968231201
+[Doc542]        Sample Time                     : 18.05 s
+[Doc542]        Sample Duration                 : 0.03 s
+[Doc542]        Angle Axis                      : 0.553301215171814 -3.74388146400452 -0.967218279838562
+[Doc543]        Sample Time                     : 18.08 s
+[Doc543]        Sample Duration                 : 0.03 s
+[Doc543]        Angle Axis                      : 0.570123314857483 -3.75878667831421 -0.962137341499329
+[Doc544]        Sample Time                     : 18.12 s
+[Doc544]        Sample Duration                 : 0.03 s
+[Doc544]        Angle Axis                      : 0.581553041934967 -3.77033543586731 -0.96621161699295
+[Doc545]        Sample Time                     : 18.15 s
+[Doc545]        Sample Duration                 : 0.03 s
+[Doc545]        Angle Axis                      : 0.594323575496674 -3.77976369857788 -0.967570781707764
+[Doc546]        Sample Time                     : 18.18 s
+[Doc546]        Sample Duration                 : 0.03 s
+[Doc546]        Angle Axis                      : 0.606901347637177 -3.78725743293762 -0.971783220767975
+[Doc547]        Sample Time                     : 18.22 s
+[Doc547]        Sample Duration                 : 0.03 s
+[Doc547]        Angle Axis                      : 0.608466506004334 -3.79472923278809 -0.980554461479187
+[Doc548]        Sample Time                     : 18.25 s
+[Doc548]        Sample Duration                 : 0.03 s
+[Doc548]        Angle Axis                      : 0.609722316265106 -3.80282974243164 -0.988328874111176
+[Doc549]        Sample Time                     : 18.28 s
+[Doc549]        Sample Duration                 : 0.03 s
+[Doc549]        Angle Axis                      : 0.617073476314545 -3.81122398376465 -0.989645004272461
+[Doc550]        Sample Time                     : 18.32 s
+[Doc550]        Sample Duration                 : 0.03 s
+[Doc550]        Angle Axis                      : 0.623754382133484 -3.81912231445313 -0.992552697658539
+[Doc551]        Sample Time                     : 18.35 s
+[Doc551]        Sample Duration                 : 0.03 s
+[Doc551]        Angle Axis                      : 0.628768503665924 -3.82596230506897 -0.997156262397766
+[Doc552]        Sample Time                     : 18.39 s
+[Doc552]        Sample Duration                 : 0.03 s
+[Doc552]        Angle Axis                      : 0.633627593517303 -3.832674741745 -0.997310817241669
+[Doc553]        Sample Time                     : 18.42 s
+[Doc553]        Sample Duration                 : 0.03 s
+[Doc553]        Angle Axis                      : 0.634713172912598 -3.83901810646057 -0.997408449649811
+[Doc554]        Sample Time                     : 18.45 s
+[Doc554]        Sample Duration                 : 0.03 s
+[Doc554]        Angle Axis                      : 0.637133777141571 -3.84507441520691 -0.995914220809937
+[Doc555]        Sample Time                     : 18.49 s
+[Doc555]        Sample Duration                 : 0.03 s
+[Doc555]        Angle Axis                      : 0.637643277645111 -3.85052275657654 -0.993655979633331
+[Doc556]        Sample Time                     : 18.52 s
+[Doc556]        Sample Duration                 : 0.03 s
+[Doc556]        Angle Axis                      : 0.641958892345428 -3.85451340675354 -0.98886901140213
+[Doc557]        Sample Time                     : 18.55 s
+[Doc557]        Sample Duration                 : 0.03 s
+[Doc557]        Angle Axis                      : 0.643711984157562 -3.85731768608093 -0.986369669437408
+[Doc558]        Sample Time                     : 18.59 s
+[Doc558]        Sample Duration                 : 0.03 s
+[Doc558]        Angle Axis                      : 0.646166265010834 -3.85887026786804 -0.982800364494324
+[Doc559]        Sample Time                     : 18.62 s
+[Doc559]        Sample Duration                 : 0.03 s
+[Doc559]        Angle Axis                      : 0.646697521209717 -3.85992884635925 -0.980684041976929
+[Doc560]        Sample Time                     : 18.65 s
+[Doc560]        Sample Duration                 : 0.03 s
+[Doc560]        Angle Axis                      : 0.643948614597321 -3.86081790924072 -0.978460788726807
+[Doc561]        Sample Time                     : 18.69 s
+[Doc561]        Sample Duration                 : 0.03 s
+[Doc561]        Angle Axis                      : 0.63967764377594 -3.86204099655151 -0.977262675762177
+[Doc562]        Sample Time                     : 18.72 s
+[Doc562]        Sample Duration                 : 0.03 s
+[Doc562]        Angle Axis                      : 0.637925207614899 -3.86388802528381 -0.974497318267822
+[Doc563]        Sample Time                     : 18.75 s
+[Doc563]        Sample Duration                 : 0.03 s
+[Doc563]        Angle Axis                      : 0.634279549121857 -3.86495900154114 -0.972102344036102
+[Doc564]        Sample Time                     : 18.79 s
+[Doc564]        Sample Duration                 : 0.03 s
+[Doc564]        Angle Axis                      : 0.631241619586945 -3.86580061912537 -0.970998525619507
+[Doc565]        Sample Time                     : 18.82 s
+[Doc565]        Sample Duration                 : 0.03 s
+[Doc565]        Angle Axis                      : 0.62912255525589 -3.86652755737305 -0.970080435276031
+[Doc566]        Sample Time                     : 18.85 s
+[Doc566]        Sample Duration                 : 0.03 s
+[Doc566]        Angle Axis                      : 0.627123713493347 -3.86686992645264 -0.970131397247314
+[Doc567]        Sample Time                     : 18.89 s
+[Doc567]        Sample Duration                 : 0.03 s
+[Doc567]        Angle Axis                      : 0.626643061637878 -3.86737942695618 -0.968391954898834
+[Doc568]        Sample Time                     : 18.92 s
+[Doc568]        Sample Duration                 : 0.03 s
+[Doc568]        Angle Axis                      : 0.627363204956055 -3.86796975135803 -0.968081295490265
+[Doc569]        Sample Time                     : 18.95 s
+[Doc569]        Sample Duration                 : 0.03 s
+[Doc569]        Angle Axis                      : 0.630588948726654 -3.86871409416199 -0.966450750827789
+[Doc570]        Sample Time                     : 18.99 s
+[Doc570]        Sample Duration                 : 0.03 s
+[Doc570]        Angle Axis                      : 0.635590553283691 -3.86871814727783 -0.96636688709259
+[Doc571]        Sample Time                     : 19.02 s
+[Doc571]        Sample Duration                 : 0.03 s
+[Doc571]        Angle Axis                      : 0.640313506126404 -3.8682017326355 -0.968220114707947
+[Doc572]        Sample Time                     : 19.05 s
+[Doc572]        Sample Duration                 : 0.03 s
+[Doc572]        Angle Axis                      : 0.644256830215454 -3.86819982528687 -0.969852268695831
+[Doc573]        Sample Time                     : 19.09 s
+[Doc573]        Sample Duration                 : 0.03 s
+[Doc573]        Angle Axis                      : 0.647642374038696 -3.86847949028015 -0.9708611369133
+[Doc574]        Sample Time                     : 19.12 s
+[Doc574]        Sample Duration                 : 0.03 s
+[Doc574]        Angle Axis                      : 0.649754285812378 -3.86851525306702 -0.97022807598114
+[Doc575]        Sample Time                     : 19.15 s
+[Doc575]        Sample Duration                 : 0.03 s
+[Doc575]        Angle Axis                      : 0.649509191513062 -3.86926341056824 -0.968164503574371
