@@ -16,6 +16,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <stdbool.h>
 
 #include "MetadataFormat.h"
 
@@ -75,7 +76,7 @@ static uint32_t GetFrameIndex(uint64_t pts, SFraction fps)
     return (uint32_t)frameIndex;
 }
 
-static int PrintBmdt(FILE* mov, uint32_t size)
+static int PrintBmdt(FILE* mov, uint32_t size, FILE** csv_file)
 {
     int ret = 0;
 
@@ -135,6 +136,9 @@ static int PrintBmdt(FILE* mov, uint32_t size)
                                 packet.gyro[0],
                                 packet.gyro[1],
                                 packet.gyro[2]);
+
+                            // write those data to csv file
+                            WriteToCSVFile(csv_file, encFrameIdx, packet);
                         }
                         else
                         {
@@ -259,7 +263,7 @@ static int PrintBmdt(FILE* mov, uint32_t size)
     }
 }
 
-static int PrintMetadata(FILE* mov)
+static int PrintMetadata(FILE* mov, FILE** csv_file)
 {
     int ret = 0;
     AtomHeader header = { 0, 0 };
@@ -316,7 +320,7 @@ static int PrintMetadata(FILE* mov)
 
     if (header.type == BMDT)
     {
-        PrintBmdt(mov, header.size);
+        PrintBmdt(mov, header.size, csv_file);
     }
     else
     {
@@ -325,6 +329,74 @@ static int PrintMetadata(FILE* mov)
     return ret;
 }
 
+void WriteToCSVFile(FILE** csv_file, uint32_t frame_number, SImuPacket imu_paket) {
+
+    if (*csv_file != NULL) {
+        fprintf(*csv_file, "\n%u, %f, %f, %f, %f, %f, %f, %f",
+            frame_number,
+            imu_paket.accel[0],
+            imu_paket.accel[1],
+            imu_paket.accel[2],
+            imu_paket.gyro[0],
+            imu_paket.gyro[1],
+            imu_paket.gyro[2]);
+    }
+    else {
+        perror("Failed to write IMU data into csv file");
+    }
+
+}
+
+bool InitCSVFile(char* csv_file_path, FILE** csv_file) {
+
+    // open or create file
+    *csv_file = fopen(csv_file_path, "w+");
+
+    if (csv_file == NULL) {
+        return false;
+    }
+    // write header line
+    fprintf(*csv_file, "FrameNumber, xAcc, yAcc, zAcc, xGyro, yGyro, zGyro");
+    
+    return true;
+}
+
+void CreateCSVFilePathFromMovie(const char* file, char* csv_file_path) {
+
+    // define expansion for .csv file
+    char csv_file_expansion[] = "imu_\0";
+    char csv_filename[100] = { 0 };
+    char csv_file_extension[] = ".csv";
+
+    // extract path from filename
+    char drive[100] = { 0 };
+    char dir[100] = { 0 };
+    char filename[100] = { 0 };
+
+    // split file into dir, drive and filename
+    _splitpath(file, drive, dir, filename, NULL);
+
+    // concatenate strings to a path
+    strcat(drive, dir);
+
+    // create name for .csv file
+    strcat(csv_filename, csv_file_expansion);
+    strcat(csv_filename, filename);
+    strcat(csv_filename, csv_file_extension);
+
+    // create .csv file with directory
+    strcat(csv_file_path, drive);
+    strcat(csv_file_path, csv_filename);
+
+    printf("\n");
+    printf("-----\nCreate a .csv file with its directory according to the movie: ");
+    printf(file);
+    printf("\n");
+    printf("CSV-File: ");
+    printf(csv_file_path);
+    printf("\n-----\n");
+
+}
 
 int main(int argc, const char* argv[])
 {
@@ -336,31 +408,33 @@ int main(int argc, const char* argv[])
         return -1;
     }
 
-    const char *filename = argv[1];
-    char drive[100];
-    char dir[100];
-    // extract path from filename
-    _splitpath(filename, drive, dir, NULL, NULL);
-    printf("---------------------\n");
-    printf(dir);
-    printf("\n");
-    printf(drive);
-    printf("\n");
-    
-    // concatenate strings to a path
-    strcat(drive, dir);
-    printf(drive);
-    printf("\n");
-    printf("---------------------\n");
+    // create .csv file name + path
+    const char* file = argv[1];
+    char csv_file_path[100] = { 0 };
+    CreateCSVFilePathFromMovie(file, csv_file_path);
 
+    // Init csv File 
+    FILE* csv_file;
+    bool is_open = InitCSVFile(csv_file_path, &csv_file);
 
-    FILE* mov = fopen(filename, "rb");
-    if (!mov)
-    {
-        perror(argv[1]);
+    if (is_open) {
+
+        FILE* mov = fopen(file, "rb");
+        if (!mov)
+        {
+            perror(argv[1]);
+            return -1;
+        }
+
+        int ret = PrintMetadata(mov, &csv_file);
+
+        fclose(mov);
+        fclose(csv_file);
+
+        return ret;
+    }
+    else {
+        perror("Failed to open %s", csv_file_path);
         return -1;
     }
-    int ret = PrintMetadata(mov);
-    fclose(mov);
-    return ret;
 }

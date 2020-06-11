@@ -17,7 +17,7 @@
 #include <stdio.h>
 #include "MetadataFormat.h"
 
-_Static_assert(sizeof(off_t) > 4, "off_t must be greater than 32 bits to fseek over 2 GB");
+//_Static_assert(sizeof(off_t) > 4, "off_t must be greater than 32 bits to fseek over 2 GB");
 
 // MOV/MP4 uses big-endian a.k.a. network byte order.
 // This header provides htonl() and ntohl() for host<->network conversions.
