@@ -145,8 +145,7 @@
     <ClInclude Include="MetadataFormat.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="extract-metadata.c" />
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="ExtractMetadata.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
